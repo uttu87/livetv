@@ -73,6 +73,52 @@ http://20062016.com:8000/live/123456123456/123456123456/19848.m3u8
 http://20062016.com:8000/live/123456123456/123456123456/19847.m3u8
 #EXTINF:-1,beIN_Sports_NEWS_full_HD
 http://20062016.com:8000/live/123456123456/123456123456/19849.m3u8
+#EXTINF:-1,(AR) beIN Sport News
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/7777
+#EXTINF:-1,(AR) beIN Sports 1
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1962
+#EXTINF:-1,(AR) beIN Sports 1 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13241
+#EXTINF:-1,(AR) beIN Sports 2
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1963
+#EXTINF:-1,(AR) beIN Sports 2 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13242
+#EXTINF:-1,(AR) beIN Sports 3
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1964
+#EXTINF:-1,(AR) beIN Sports 3 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13243
+#EXTINF:-1,(AR) beIN Sports 4
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1965
+#EXTINF:-1,(AR) beIN Sports 4 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13244
+#EXTINF:-1,(AR) beIN Sports 5
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1966
+#EXTINF:-1,(AR) beIN Sports 5 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13245
+#EXTINF:-1,(AR) beIN Sports 6
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1967
+#EXTINF:-1,(AR) beIN Sports 6 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13246
+#EXTINF:-1,(AR) beIN Sports 7
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1968
+#EXTINF:-1,(AR) beIN Sports 7 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13247
+#EXTINF:-1,(AR) beIN Sports 8
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1969
+#EXTINF:-1,(AR) beIN Sports 8 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13248
+#EXTINF:-1,(AR) beIN Sports 9
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1970
+#EXTINF:-1,(AR) beIN Sports 9 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13249
+#EXTINF:-1,(AR) beIN Sports 10
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1971
+#EXTINF:-1,(AR) beIN Sports 10 HD+
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13250
+#EXTINF:-1,(AR) beIN Sports 11
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/1972
+#EXTINF:-1,(AR) beIN Sports 11 (ENG)
+http://5.254.66.68:1339/zu5ODuBAJF/jhTXXMJqTC/13251
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="" group-title="Sport",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/B8ML0VM.png" group-title="Sport",A Spor
