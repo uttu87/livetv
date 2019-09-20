@@ -101,8 +101,6 @@ http://stream.atr.ua/lale//live/index.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
 #EXTINF:-1 tvg-id="maxxi-tv" tvg-name="Maxxi-TV" tvg-logo="" group-title="",Maxxi-TV
 http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
-#EXTINF:-1 tvg-id="musicbox-ua-hd" tvg-name="MusicBox UA" tvg-logo="https://www.firstonetv.live/images/logos/ua/MUSICBOX.png" group-title="Music",MusicBox UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="newsone-ua" tvg-name="NewsOne" tvg-logo="https://iptvx.one/icn/newsone.png" group-title="",NewsOne
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 tvg-id="z-zapor" tvg-name="Z (Запорожье)" tvg-logo="https://ztv.zp.ua/wp-content/themes/tv-z/img/logo.png" group-title="",Z (Запорожье)
@@ -160,8 +158,6 @@ http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Круг (Одесса)
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-#EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-logo="http://m2.tv/assets/logo-231ef42a791ac4e9287a94c6dd492ebd740ad3bea40f789cd489683b758ff65d.png" group-title="Music",М2
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="maliatko-tv" tvg-name="Малятко TV" tvg-logo="https://i.imgur.com/aOS34dT.png" group-title="Kids",Малятко TV
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:-1 tvg-id="maliatko-tv" tvg-name="Малятко TV" tvg-logo="https://iptvx.one/icn/maliatko-tv.png" group-title="Kids",Малятко TV
