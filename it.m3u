@@ -91,20 +91,6 @@ http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
 http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Sport",Eurosport 1
 https://1.ip2stream.icu/live/eurosport_1_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX IT" tvg-name="FOX IT" tvg-logo="https://static.iptv-epg.com/gb/FOX.uk.png" group-title="",Fox
-https://1.ip2stream.icu/live/fox_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="FOX IT" tvg-name="FOX IT" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" group-title="",Fox
-https://1.ip2stream.icu/live/fox_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX Animation IT" tvg-name="FOX Animation IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Fox_Animation_Logo_2015.png" group-title="",Fox Animation
-https://1.ip2stream.icu/live/fox_animation_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX Comedy IT" tvg-name="FOX Comedy IT" tvg-logo="https://pbs.twimg.com/profile_images/724557428591853568/EwIhi2Sj.jpg" group-title="Comedy",Fox Comedy
-https://1.ip2stream.icu/live/fox_comedy_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="FOX Crime IT" tvg-name="FOX Crime IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Crime_2017.svg/1280px-Fox_Crime_2017.svg.png" group-title="",Fox Crime
-https://1.ip2stream.icu/live/fox_crime_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="FOX Life IT" tvg-name="FOX Life IT" tvg-logo="https://static.iptv-epg.com/us/FOXLife.us.png" group-title="",Fox Life
-https://1.ip2stream.icu/live/fox_life_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="FOX Life IT" tvg-name="FOX Life IT" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" group-title="",Fox Life
-https://1.ip2stream.icu/live/fox_life_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Frisbee IT" tvg-name="Frisbee IT" tvg-logo="http://www.frisbeetv.it/wp-content/themes/mt-landing-wp/img/logo.png" group-title="",Frisbee
 https://1.ip2stream.icu/live/frisbee_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Gambero Rosso IT" tvg-name="Gambero Rosso IT" tvg-logo="http://www2.ggori.com/wp-content/uploads/2018/10/gambero-rosso-academy-213336095.jpg" group-title="",Gambero Rosso
@@ -123,10 +109,6 @@ http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nWBWzNy.png" group-title="",Icaro TV
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",IRC Sport TV
-http://178.32.140.155/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ircsporttv.it/assets/front/img/logo.png" group-title="Sport",IRC Sport TV
-http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
 #EXTINF:-1 tvg-id="Iris IT" tvg-name="Iris IT" tvg-logo="https://static.iptv-epg.com/it/Iris.it.png" group-title="",Iris
 https://1.ip2stream.icu/live/iris_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/1/1e/Canale_Italia_Logo_2015.png/260px-Canale_Italia_Logo_2015.png" group-title="",Italia 141
@@ -159,8 +141,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?www.tecnotv.in
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-id="M2O IT" tvg-name="M2O IT" tvg-logo="" group-title="Music",m2o TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fLuxaEb.jpg" group-title="",Medjugorje Italia TV
-http://94.23.67.20:1935/medjugorjeitaliatv/medjugorjeitaliatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.motortrendtv.it/wp-content/themes/mt-landing-wp/img/logo.png" group-title="Auto",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="Nat Geo People IT" tvg-name="Nat Geo People IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="",Nat Geo People
@@ -199,10 +179,6 @@ https://1.ip2stream.icu/live/premium_joi/playlist.m3u8
 https://1.ip2stream.icu/live/premium_stories_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.primativvu.it/wordpress/wp-content/uploads/2015/03/Prima-Tivvu.png" group-title="",Prima Tivvu
 https://sb.top-ix.org/streamtech/tvlive1/chunklist_w921110763.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Prima Tivvu
-https://sb.top-ix.org/streamtech/tvlive1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ouSptk1.png" group-title="",Prima TV
-http://flash2.streaming.xdevel.com/primatv/primatv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.simonachiavaccini.com/wp-content/uploads/2012/03/primocanale.jpg" group-title="",Primocanale Liguria
 http://msh0203.stream.seeweb.it/live/stream1.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMs3Sp6.png" group-title="",Quarto Canale Flegreo
@@ -273,40 +249,6 @@ http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m
 https://rtl-radio-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="Radionorba TV IT" tvg-name="Radionorba TV IT" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/25780_home.png" group-title="Music",Radionorba TV
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://92.43.140.249/s29/04.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/200px-Rai_1_-_Logo_2016.svg.png" group-title="",Rai 1
-http://ott-cdn.ucom.am/s29/04.m3u8
-#EXTINF:-1 tvg-id="Rai 1 IT" tvg-name="Rai 1 IT" tvg-logo="" group-title="",Rai 1
-http://ott-cdn.ucom.am/s29/index.m3u8
-#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="" group-title="",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 tvg-id="Rai 3 IT" tvg-name="Rai 3 IT" tvg-logo="https://i.imgur.com/IIqn1oG.jpg" group-title="",Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="https://i.imgur.com/U2TCH5e.png" group-title="",Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/index_1800_av-p.m3u8
-#EXTINF:-1 tvg-id="Rai 4 IT" tvg-name="Rai 4 IT" tvg-logo="" group-title="",Rai 4
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
-#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="" group-title="",Rai 5
-http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="Rai 5 IT" tvg-name="Rai 5 IT" tvg-logo="" group-title="",Rai 5
-http://b2everyrai-lh.akamaihd.net:80/i/rai5_1@182695/master.m3u8
-#EXTINF:-1 tvg-id="Rai Gulp IT" tvg-name="Rai Gulp IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/1200px-Rai_Gulp_-_Logo_2017.svg.png" group-title="",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 tvg-id="Rai Movie IT" tvg-name="Rai Movie IT" tvg-logo="" group-title="Movies",Rai Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" group-title="News",Rai News 24
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
-#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_News_-_Logo_2010.svg/1200px-Rai_News_-_Logo_2010.svg.png" group-title="News",Rai News 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" group-title="Movies",Rai Premium
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="Sport",Rai Sport
-http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
-#EXTINF:-1 tvg-id="Rai Storia IT" tvg-name="Rai Storia IT" tvg-logo="http://www.raistoria.rai.it/images/logo-raistoria-messenger.png" group-title="",Rai Storia
-https://1.ip2stream.icu/live/rai_storia_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai YoYo IT" tvg-name="Rai YoYo IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Rai_Yoyo_-_Logo_2017.svg/1200px-Rai_Yoyo_-_Logo_2017.svg.png" group-title="",Rai YoYo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image/aXQucmRzLnR2LnJkc3NvY2lhbHR2X3NjcmVlbl8wXzE1MjU0MzE0MzlfMDY2/screen-0.jpg?h=355&fakeurl=1&type=.jpg" group-title="",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/Reggio_TV_logo.png" group-title="",ReggioTV
@@ -351,18 +293,8 @@ https://dlxommsyqo2g0.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/playli
 https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Senato della Repubblica
 http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
-#EXTINF:-1 tvg-id="Sky Cinema Plus24 IT" tvg-name="Sky Cinema Plus24 IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sky_Cinema_%2B24_HD_-_Logo_2018.svg/1280px-Sky_Cinema_%2B24_HD_-_Logo_2018.svg.png" group-title="",Sky Cinema +24
-https://1.ip2stream.icu/live/sky_cinema_24_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky Cinema Family IT" tvg-name="Sky Cinema Family IT" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMAFAMILY.png" group-title="Family",Sky Cinema Family
-https://1.ip2stream.icu/live/sky_cinema_family_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RPXusvS.png" group-title="",Sophia TV
 https://www.onairport.live/sophiatv-it-live/livestream_low/chunklist_w217998957.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",SporTVL
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",SporTVL
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",SporTVL
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Studio 100
 http://wms.shared.streamshow.it/studio100ta/studio100ta/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Studio 100
