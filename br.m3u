@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="http://infinitytv.xyz/guide.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ykEHJoE.png" group-title="Sport",All Sports
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zX5c4CG.png" group-title="",Boa Vontade TV
 http://api.new.livestream.com/accounts/15107153/events/4338771/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/De6ty9h.png" group-title="",Canal Ricos
@@ -13,8 +11,6 @@ https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/
 https://sa-all13.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1662090379.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2tZaxs.jpg" group-title="",CBTV Internacional
 https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/SYPYeHt.jpg" group-title="",Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/sQ5BKun.png" group-title="",FM O Dia
 http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ov6GsFs.png" group-title="",G2PTV
@@ -55,46 +51,6 @@ http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLE
 http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/h4WaIw5.jpg" group-title="",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://i.imgur.com/cJC3PPk.png" group-title="",RedeTV!
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1209374997.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/p1Q6udv.png" group-title="",SBT (Opt-12)
-https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="",Summer TV
 http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
