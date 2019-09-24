@@ -1,22 +1,8 @@
 #EXTM3U x-tvg-url="http://infinitytv.xyz/guide.xml"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YrBt8gZ.png" group-title="",Summer TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="TV Aparecida" tvg-name="TV Aparecida" tvg-logo="https://i.imgur.com/xyYIdif.png" group-title="",TV Aparecida
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ejp65zr.png" group-title="",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura" tvg-logo="https://i.imgur.com/Oy6Nrzb.png" group-title="",TV Cultura
-http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jpEJYfT.png" group-title="",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VqIzaFz.png" group-title="",TV Digital Birigui
-http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NifNfjn.png" group-title="Education",TV Educativa da Bahia
 http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XLD3GbZ.png" group-title="Education",TV Educativa de Porto Alegre
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
-http://bit.ly/2CyHmr0
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u80
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b9q8rtn.jpg" group-title="",TV Faap
 http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/z5HMLv9.png" group-title="",TV Gidoes
@@ -43,5 +29,3 @@ http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?fl
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist_w1238635662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c5hs2CI.jpg" group-title="",TVN Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VFDVsWK.jpg" group-title="",Web TV Minas
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
