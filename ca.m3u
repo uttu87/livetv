@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Jxjg4Nx.png" group-title="",5AAB Music Channel
-http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="",A3BIKINI TV
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="",Amazing Discoveries TV
@@ -35,16 +29,6 @@ http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
 https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bbVSaC7.jpg" group-title="",GH Canada TV
-http://uni8rtmp.tulix.tv/ghanaglobal/ghanaglobal/chunklist_w1167237290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c34WFZw.png" group-title="",Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="",ICI Télévision
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/207d672634986b4ab27d689b114deb5f/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tILcm6T.png" group-title="",iCNET
-http://70.52.161.69:1935/ICNET/ngrp:my.stream_all/chunklist_w2017851544_b3478286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 #EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
@@ -63,27 +47,3 @@ http://cdn.samtv.ca/ptv24/index.m3u8
 https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
 http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-logo="https://i.imgur.com/9uFrMex.png" group-title="",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="",VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
