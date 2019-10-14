@@ -45,3 +45,25 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2
 http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",BABY亲子台
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",黔江生态文化
+http://qianjianglive.cbg.cn:9001/hls/live/live3/starsam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",黔江综合频道
+http://125.62.60.253:9001/hls/live/live1/starsam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",黔江综合频道
+http://qianjianglive.cbg.cn:9001/hls/live/live1/starsam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",黔西南公共
+http://live.qxndt.com/channel3/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",黔西南综合
+http://live.qxndt.com/channel2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",龙口图文频道
+http://yslk.chinashadt.com:1635/live/stream:di4.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",龙口影视频道
+http://yslk.chinashadt.com:1635/live/stream:di3.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",龙口新闻综合
+http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",龙口生活频道
+http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",龙岩公共
+http://stream.lytv.net.cn/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",龙岩综合
+http://stream.lytv.net.cn/2/sd/live.m3u8
