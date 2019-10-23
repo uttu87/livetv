@@ -3,24 +3,6 @@
 http://85.238.112.40:8810/hls_sec/239.17.16.32-.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xmtvplayer.com/chan-imgs/100_percent_news.png" group-title="News",100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-id="11kanal" tvg-name="11 канал Днепр" tvg-logo="https://www.11tv.dp.ua/res/gfx/11logo300X300.jpg" group-title="",11 канал (Днепр)
-http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-logo="" group-title="",4 канал
-http://95.67.106.10/hls/nta_ua_hi/index.m3u8
-#EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-logo="" group-title="",4 канал
-http://95.67.106.10/hls/nta_ua_low/index.m3u8
-#EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-logo="" group-title="",4 канал
-http://95.67.106.10/hls/nta_ua_mid/index.m3u8
-#EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-logo="https://4channel.com.ua/wp-content/uploads/2018/04/4logo-main.png" group-title="",4 канал
-http://cdn.vsnw.net:8081/interradio/1080i.m3u8
-#EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-logo="" group-title="",4 канал
-http://cdn.vsnw.net:8081/interradio/480i.m3u8
-#EXTINF:-1 tvg-id="rti" tvg-name="RTi" tvg-logo="" group-title="",4 канал
-http://cdn.vsnw.net:8081/interradio/720i.m3u8
-#EXTINF:-1 tvg-id="7kanal-odessa" tvg-name="7 канал Одесса" tvg-logo="" group-title="",7 канал (Одесса)
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Antenna
-http://streamer.antenna.com.ua/hls/antenna.m3u8
 #EXTINF:-1 tvg-id="atr-ua" tvg-name="ATR" tvg-logo="https://iptvx.one/icn/atr-ua.png" group-title="Local",ATR
 http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
 #EXTINF:-1 tvg-id="atr-ua" tvg-name="ATR" tvg-logo="https://iptvx.one/icn/atr-ua.png" group-title="Local",ATR
@@ -51,12 +33,6 @@ http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/01/impact.jpg" group-title="Religious",Impact
 http://206.190.141.27:1935/live/impact/playlist.m3u8
-#EXTINF:-1 tvg-id="inter-ua" tvg-name="Iнтер" tvg-logo="https://inter.ua/images/logo.png" group-title="",Iнтер
-http://109.68.41.148:1935/live/inter_3/playlist.m3u8
-#EXTINF:-1 tvg-id="inter-ua" tvg-name="Iнтер" tvg-logo="https://iptvx.one/icn/inter-ua.png" group-title="",Iнтер
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 tvg-id="inter-plus-ua" tvg-name="Iнтер+" tvg-logo="https://iptvx.one/icn/inter-plus-ua.png" group-title="",Iнтер+
-http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s3.vefire.ru/l/ru/KRATUTV.gif" group-title="",Kratu
 http://212.113.32.169:8080/Apple/2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kratu.ua/wp-content/uploads/2016/06/Old-Logo.png" group-title="",Kratu
@@ -152,8 +128,6 @@ http://tv.tv-project.com:1935/live/live1/playlist.m3u8
 http://62.64.92.118:8080/Apple/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tistv.news/wp-content/uploads/2018/02/logo-main-2.png" group-title="",ТИС ТВ
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 tvg-id="treti-cifrovoj" tvg-name="Третий Цифровой" tvg-logo="" group-title="",Третий Цифровой
-http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
 #EXTINF:-1 tvg-id="treti-cifrovoj" tvg-name="Третий Цифровой" tvg-logo="http://tretiy.tv/wp-content/uploads/2017/12/logo.png" group-title="",Третий Цифровой
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="trk-chernivci" tvg-name="ТРК Чернівці" tvg-logo="" group-title="",ТРК Чернівці
