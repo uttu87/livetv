@@ -1,68 +1,350 @@
 #EXTM3U
-#EXTINF:-1,AR: Bein sport 1 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18065
-#EXTINF:-1,AR: Bein sport 10 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18064
-#EXTINF:-1,AR: Bein sport 11 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18063
-#EXTINF:-1,AR: Bein sport 12 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18062
-#EXTINF:-1,AR: Bein sport 13 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18061
-#EXTINF:-1,AR: Bein sport 2 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18060
-#EXTINF:-1,AR: Bein sport 3 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18059
-#EXTINF:-1,AR: Bein sport 4 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18058
-#EXTINF:-1,AR: Bein sport 5 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18057
-#EXTINF:-1,AR: Bein sport 6 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18056
-#EXTINF:-1,AR: Bein sport 7 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18055
-#EXTINF:-1,AR: Bein sport 8 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18054
-#EXTINF:-1,AR: Bein sport 9 FHD
-http://premium-iptv.link:7899/Lindsay/Lindsay/18053
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 1
-http://premium-iptv.link:7899/Lindsay/Lindsay/32163
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 2
-http://premium-iptv.link:7899/Lindsay/Lindsay/32162
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 3
-http://premium-iptv.link:7899/Lindsay/Lindsay/32161
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 4
-http://premium-iptv.link:7899/Lindsay/Lindsay/32160
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 5
-http://premium-iptv.link:7899/Lindsay/Lindsay/32159
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 6
-http://premium-iptv.link:7899/Lindsay/Lindsay/32158
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 7
-http://premium-iptv.link:7899/Lindsay/Lindsay/32157
-#EXTINF:-1,AR: beIN SPORTS FHD LOCAL 8
-http://premium-iptv.link:7899/Lindsay/Lindsay/32156
-#EXTINF:-1,AR: beIN SPORTS Global HD
-http://premium-iptv.link:7899/Lindsay/Lindsay/32164
-#EXTINF:-1,AR: beIN SPORTS HD Local 1
-http://premium-iptv.link:7899/Lindsay/Lindsay/32174
-#EXTINF:-1,AR: beIN SPORTS HD Local 10
-http://premium-iptv.link:7899/Lindsay/Lindsay/32165
-#EXTINF:-1,AR: beIN SPORTS HD Local 2
-http://premium-iptv.link:7899/Lindsay/Lindsay/32173
-#EXTINF:-1,AR: beIN SPORTS HD Local 3
-http://premium-iptv.link:7899/Lindsay/Lindsay/32172
-#EXTINF:-1,AR: beIN SPORTS HD Local 4
-http://premium-iptv.link:7899/Lindsay/Lindsay/32171
-#EXTINF:-1,AR: beIN SPORTS HD Local 5
-http://premium-iptv.link:7899/Lindsay/Lindsay/32170
-#EXTINF:-1,AR: beIN SPORTS HD Local 6
-http://premium-iptv.link:7899/Lindsay/Lindsay/32169
-#EXTINF:-1,AR: beIN SPORTS HD Local 7
-http://premium-iptv.link:7899/Lindsay/Lindsay/32168
-#EXTINF:-1,AR: beIN SPORTS HD Local 8
-http://premium-iptv.link:7899/Lindsay/Lindsay/32167
-#EXTINF:-1,AR: beIN SPORTS HD Local 9
-http://premium-iptv.link:7899/Lindsay/Lindsay/32166
+#EXTINF:0,AR VIP: Bein Sport 1 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5986
+#EXTINF:0,AR VIP: Bein Sport 12 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5997
+#EXTINF:0,AR VIP: Bein Sport 3 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5988
+#EXTINF:0,AR VIP: Bein Sport 4 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5989
+#EXTINF:0,AR VIP: Bein Sport 5 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5990
+#EXTINF:0,AR VIP: Bein Sport 6 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5991
+#EXTINF:0,AR VIP: Bein Sport 7 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5992
+#EXTINF:0,AR VIP: Bein Sport 8 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5993
+#EXTINF:0,AR VIP: Bein Sport 2 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/5987
+#EXTINF:0,AR: BARAEM Bein
+http://premium-iptv.link:7899/Marquisha/Marquisha/5962
+#EXTINF:0,AR: BEIN 1 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8998
+#EXTINF:0,AR: BEIN 2 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8997
+#EXTINF:0,AR: BEIN 3 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8996
+#EXTINF:0,AR: BEIN 4 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8995
+#EXTINF:0,AR: BEIN 5 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8994
+#EXTINF:0,AR: BEIN 6 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8993
+#EXTINF:0,AR: BEIN 7 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8992
+#EXTINF:0,AR: BEIN 8 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8991
+#EXTINF:0,AR: BEIN MOVIES 1HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/506
+#EXTINF:0,AR: BEIN MOVIES 3 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/508
+#EXTINF:0,AR: Bein sport 1 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18065
+#EXTINF:0,AR: beIN Sport 1 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47271
+#EXTINF:0,AR: Bein sport 10 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18064
+#EXTINF:0,AR: beIN Sport 10 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47262
+#EXTINF:0,AR: beIN Sport 11 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47261
+#EXTINF:0,AR: Bein sport 12 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18062
+#EXTINF:0,AR: beIN Sport 12 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47260
+#EXTINF:0,AR: bein Sport 13 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/27745
+#EXTINF:0,AR: bein Sport 2 FHD (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27744
+#EXTINF:0,AR: beIN Sport 2 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47270
+#EXTINF:0,AR: bein Sport 3 FHD (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27743
+#EXTINF:0,AR: Bein sport 4 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18058
+#EXTINF:0,AR: bein Sport 4 FHD (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27742
+#EXTINF:0,AR: beIN Sport 4 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47268
+#EXTINF:0,AR: Bein sport 5 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18057
+#EXTINF:0,AR: beIN Sport 5 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47267
+#EXTINF:0,AR: Bein sport 6 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18056
+#EXTINF:0,AR: bein Sport 6 FHD (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27740
+#EXTINF:0,AR: Bein sport 7 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18055
+#EXTINF:0,AR: bein Sport 7 FHD (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27739
+#EXTINF:0,AR: beIN Sport 7 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47265
+#EXTINF:0,AR: bein Sport 8 FHD (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27738
+#EXTINF:0,AR: beIN Sport 8 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47264
+#EXTINF:0,AR: bein Sport 9 FHD (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27737
+#EXTINF:0,AR: beIN Sport 9 HD VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47263
+#EXTINF:0,AR: Bein Sport HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/17325
+#EXTINF:0,AR: beIN SPorts
+http://premium-iptv.link:7899/Marquisha/Marquisha/29
+#EXTINF:0,AR: beIN Sports 1 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/30
+#EXTINF:0,AR: beIN Sports 1 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47259
+#EXTINF:0,AR: beIN Sports 10 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/39
+#EXTINF:0,AR: beIN Sports 10 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47250
+#EXTINF:0,AR: beIN Sports 11 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/40
+#EXTINF:0,AR: beIN Sports 12 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/41
+#EXTINF:0,AR: beIN Sports 2 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/31
+#EXTINF:0,AR: beIN Sports 2 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47258
+#EXTINF:0,AR: beIN Sports 3 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/32
+#EXTINF:0,AR: beIN Sports 3 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47257
+#EXTINF:0,AR: beIN Sports 4 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/33
+#EXTINF:0,AR: beIN Sports 4 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47256
+#EXTINF:0,AR: beIN Sports 5 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47255
+#EXTINF:0,AR: beIN Sports 6 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/35
+#EXTINF:0,AR: beIN Sports 6 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47254
+#EXTINF:0,AR: beIN Sports 7 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/36
+#EXTINF:0,AR: beIN Sports 7 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47253
+#EXTINF:0,AR: beIN Sports 8 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/37
+#EXTINF:0,AR: beIN Sports 8 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47252
+#EXTINF:0,AR: beIN Sports 9 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/38
+#EXTINF:0,AR: beIN Sports 9 HD HEVC VIP SPORTS
+http://premium-iptv.link:7899/Marquisha/Marquisha/47251
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 1
+http://premium-iptv.link:7899/Marquisha/Marquisha/32163
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 10
+http://premium-iptv.link:7899/Marquisha/Marquisha/33771
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 11
+http://premium-iptv.link:7899/Marquisha/Marquisha/33770
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 12
+http://premium-iptv.link:7899/Marquisha/Marquisha/33769
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 2
+http://premium-iptv.link:7899/Marquisha/Marquisha/32162
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 4
+http://premium-iptv.link:7899/Marquisha/Marquisha/32160
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 5
+http://premium-iptv.link:7899/Marquisha/Marquisha/32159
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 6
+http://premium-iptv.link:7899/Marquisha/Marquisha/32158
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 7
+http://premium-iptv.link:7899/Marquisha/Marquisha/32157
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 8
+http://premium-iptv.link:7899/Marquisha/Marquisha/32156
+#EXTINF:0,AR: beIN SPORTS FHD LOCAL 9
+http://premium-iptv.link:7899/Marquisha/Marquisha/33772
+#EXTINF:0,AR: beIN SPORTS HD 5 (hevc)
+http://premium-iptv.link:7899/Marquisha/Marquisha/27741
+#EXTINF:0,AR: beIN SPORTS HD Local 1
+http://premium-iptv.link:7899/Marquisha/Marquisha/32174
+#EXTINF:0,AR: beIN SPORTS HD Local 10
+http://premium-iptv.link:7899/Marquisha/Marquisha/32165
+#EXTINF:0,AR: beIN SPORTS HD LOCAL 12
+http://premium-iptv.link:7899/Marquisha/Marquisha/33773
+#EXTINF:0,AR: beIN SPORTS HD Local 2
+http://premium-iptv.link:7899/Marquisha/Marquisha/32173
+#EXTINF:0,AR: beIN SPORTS HD Local 3
+http://premium-iptv.link:7899/Marquisha/Marquisha/32172
+#EXTINF:0,AR: beIN SPORTS HD Local 5
+http://premium-iptv.link:7899/Marquisha/Marquisha/32170
+#EXTINF:0,AR: beIN SPORTS HD Local 6
+http://premium-iptv.link:7899/Marquisha/Marquisha/32169
+#EXTINF:0,AR: beIN SPORTS HD Local 7
+http://premium-iptv.link:7899/Marquisha/Marquisha/32168
+#EXTINF:0,AR: beIN SPORTS HD Local 8
+http://premium-iptv.link:7899/Marquisha/Marquisha/32167
+#EXTINF:0,AR: beIN SPORTS HD Local 9
+http://premium-iptv.link:7899/Marquisha/Marquisha/32166
+#EXTINF:0,AU: beIN Sports 2 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/48276
+#EXTINF:0,ES: BeiN La Liga
+http://premium-iptv.link:7899/Marquisha/Marquisha/16858
+#EXTINF:0,ES: beIN LA Liga FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/8677
+#EXTINF:0,ES: BeiN Laliga FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/16861
+#EXTINF:0,ES: Bein Liga HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/5423
+#EXTINF:0,ES: beIN Sport FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/11776
+#EXTINF:0,ES: Bein Sport HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/5422
+#EXTINF:0,FR: Bein max 4(1)
+http://premium-iptv.link:7899/Marquisha/Marquisha/2865
+#EXTINF:0,FR: Bein Sport Max 5
+http://premium-iptv.link:7899/Marquisha/Marquisha/5618
+#EXTINF:0,FR: Bein Sport Max 8
+http://premium-iptv.link:7899/Marquisha/Marquisha/5621
+#EXTINF:0,FR: Bein Sport Max 9
+http://premium-iptv.link:7899/Marquisha/Marquisha/5622
+#EXTINF:0,FR: beIN Sports 1 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26479
+#EXTINF:0,FR: BeIN SPORTS 1 HD (1080P)
+http://premium-iptv.link:7899/Marquisha/Marquisha/8310
+#EXTINF:0,FR: Bein Sports 1 HD backup
+http://premium-iptv.link:7899/Marquisha/Marquisha/8803
+#EXTINF:0,FR: beIN SPORTS 2 backup
+http://premium-iptv.link:7899/Marquisha/Marquisha/16105
+#EXTINF:0,FR: beIN Sports 2 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26478
+#EXTINF:0,FR: BeIN SPORTS 2 HD (1080P)
+http://premium-iptv.link:7899/Marquisha/Marquisha/8309
+#EXTINF:0,FR: beIN Sports 3 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26477
+#EXTINF:0,FR: BeIN SPORTS 3 HD (1080P)
+http://premium-iptv.link:7899/Marquisha/Marquisha/8308
+#EXTINF:0,FR: beIN SPORTS 3HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/446
+#EXTINF:0,FR: beIN Sports MAX 10 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/33170
+#EXTINF:0,FR: beIN Sports MAX 4 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/33176
+#EXTINF:0,FR: beIN Sports MAX 5 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/33175
+#EXTINF:0,FR: beIN Sports MAX 8 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/33172
+#EXTINF:0,FR: beIN Sports MAX 9 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/33171
+#EXTINF:0,FR: beIN SPORTS1 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/444
+#EXTINF:0,FR: beINS PORTS 2HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/445
+#EXTINF:0,PH: BEIN SPORTS 1 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/31742
+#EXTINF:0,PH: BEIN SPORTS 2 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/31741
+#EXTINF:0,TR: beIN Box Office 1
+http://premium-iptv.link:7899/Marquisha/Marquisha/7678
+#EXTINF:0,TR: beIN Box Office 2
+http://premium-iptv.link:7899/Marquisha/Marquisha/7679
+#EXTINF:0,TR: bEIN BOX OFFICE 2 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/4648
+#EXTINF:0,TR: BEIN BOX OFFICE 3 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/31412
+#EXTINF:0,TR: BEIN GURME HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26629
+#EXTINF:0,TR: BEIN HABER HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26631
+#EXTINF:0,TR: beIN IZ HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/4243
+#EXTINF:0,TR: BEIN IZ TV HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26628
+#EXTINF:0,TR: beIN Movies Comedy HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/7193
+#EXTINF:0,TR: beIN MOVIES PREMIER HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/27128
+#EXTINF:0,TR: beIN Movies Turk
+http://premium-iptv.link:7899/Marquisha/Marquisha/7191
+#EXTINF:0,TR: BEIN MOVIES TURK HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26630
+#EXTINF:0,TR: BEIN SERIES COMEDY HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/27126
+#EXTINF:0,TR: BEIN SERIES DRAMA HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/27127
+#EXTINF:0,TR: beIN Series Sci-Fi
+http://premium-iptv.link:7899/Marquisha/Marquisha/27124
+#EXTINF:0,TR: BEIN SERIES VICE HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/27125
+#EXTINF:0,TR: BEIN SPORT 1 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26475
+#EXTINF:0,TR: beIN Sport 1 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/11778
+#EXTINF:0,TR: BEIN SPORT 1HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26476
+#EXTINF:0,TR: BEIN SPORT 2 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26474
+#EXTINF:0,TR: BEIN SPORT 2 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26469
+#EXTINF:0,TR: BEIN SPORT 3 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26473
+#EXTINF:0,TR: BEIN SPORT 3 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26468
+#EXTINF:0,TR: BEIN SPORT 4 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26472
+#EXTINF:0,TR: BEIN SPORT 4 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26467
+#EXTINF:0,TR: BEIN SPORT MAX 1 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26471
+#EXTINF:0,TR: BEIN SPORT MAX 2 FHD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26470
+#EXTINF:0,TR: BEIN SPORT MAX 2 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/26465
+#EXTINF:0,TR: Bein sports 1 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/19304
+#EXTINF:0,TR: beIN SPORTS 1 HD �
+http://premium-iptv.link:7899/Marquisha/Marquisha/16160
+#EXTINF:0,TR: beIN SPORTS 2 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/16159
+#EXTINF:0,TR: Bein sports 2 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/19303
+#EXTINF:0,TR: beIN SPORTS 3 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/16161
+#EXTINF:0,TR: Bein sports 3 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/19302
+#EXTINF:0,TR: beIN SPORTS 4 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/16162
+#EXTINF:0,TR: Bein sports 4 HD (Backup)
+http://premium-iptv.link:7899/Marquisha/Marquisha/19301
+#EXTINF:0,TR: beIN SPORTS Haber HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/40106
+#EXTINF:0,TR: beIN SPORTS MAX 1 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/17625
+#EXTINF:0,TR: beIN SPORTS MAX 2 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/17626
+#EXTINF:0,TR:beIN BOX OFFICE 3 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/18947
+#EXTINF:0,US: Bein sport 1080P
+http://premium-iptv.link:7899/Marquisha/Marquisha/8604
+#EXTINF:0,US: Bein Sports USA HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/1104
+#EXTINF:0,VIP AR: Bein Baraem
+http://premium-iptv.link:7899/Marquisha/Marquisha/6494
+#EXTINF:0,VIP AR: Bein Fatafeat HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6498
+#EXTINF:0,VIP AR: Bein Jeem HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6501
+#EXTINF:0,VIP AR: BeIN Movies 1HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6608
+#EXTINF:0,VIP AR: BeIN Movies 2HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6609
+#EXTINF:0,VIP AR: BeIN Movies 3HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6610
+#EXTINF:0,VIP AR: BeIN Movies 4HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6611
+#EXTINF:0,VIP AR: Bein NBA HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6354
+#EXTINF:0,VIP AR: beIN Series 1 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/7677
+#EXTINF:0,VIP AR: BEIN SPORT (Backup2) 10 HD
+http://premium-iptv.link:7899/Marquisha/Marquisha/6939
+#EXTINF:0,VIP AR: Bein Sport News
+http://premium-iptv.link:7899/Marquisha/Marquisha/5998
+#EXTINF:0,VIP ES: Bein Sports HD ( 1080P )
+http://premium-iptv.link:7899/Marquisha/Marquisha/6724
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="" group-title="Sport",A Spor
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
 #EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-logo="https://i.imgur.com/B8ML0VM.png" group-title="Sport",A Spor
