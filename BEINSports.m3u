@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:0,BeinSport1
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:0,BeinSport2
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:0,BeinSport3
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:0,BeinSport4
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:0,BeinSport5
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:0,BeinSport6
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:0,BeinSport7
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
+#EXTINF:0,BeinSport8
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
+#EXTINF:0,BeinSport9
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
+#EXTINF:0,BeinSport10
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
+#EXTINF:0,BeinSport11
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
+#EXTINF:0,BeinSport12
+http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
+#EXTINF:0,BeinSport13
+http://95.170.215.120:80/hls/m3u8/BeinSport13.m3u8
+#EXTINF:0,BeinSport14
+http://95.170.215.120:80/hls/m3u8/BeinSport14.m3u8
+#EXTINF:0,BeinSport15
+http://95.170.215.120:80/hls/m3u8/BeinSport15.m3u8
+#EXTINF:0,BeinSport16
+http://95.170.215.120:80/hls/m3u8/BeinSport16.m3u8
 #EXTINF:0,|AR| BEINSPORTS MAX 1 HD
 http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
 #EXTINF:-1,|AR| BEINSPORTS HD
