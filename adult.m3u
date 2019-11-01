@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/v99U3JE.png" group-title="",Amazing TV
+http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
 #EXTINF:-1,PLAYBOY TV (NA)
 http://ok2.se:8000/ujHd3ShKg8/EVj1CdsBc7/300
 #EXTINF:-1,HUSTLER HD
