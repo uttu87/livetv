@@ -1,77 +1,72 @@
 #EXTM3U
-#EXTINF:0,Bein Sports 1HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/33.ts
-#EXTINF:0,Bein Sports 1 Full
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/43.ts
-#EXTINF:0,Bein Sports 1 FullHD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/59.ts
-#EXTINF:0,Bein Sports 2HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/34.ts
-#EXTINF:0,Bein Sports 2 Full
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/44.ts
-#EXTINF:0,Bein Sports 2 FullHD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/60.ts
-#EXTINF:0,Bein Sports 3HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/35.ts
-#EXTINF:0,Bein Sports 3 Full
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/45.ts
-#EXTINF:0,Bein Sports 3 FullHD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/61.ts
-#EXTINF:0,Bein Sports 4HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/36.ts
-#EXTINF:0,Bein Sports 4 Full
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/46.ts
-#EXTINF:0,Bein Sports 4 FullHD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/62.ts
-#EXTINF:0,Bein Sports 5HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/37.ts
-#EXTINF:0,Bein Sports 5 Full
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/47.ts
-#EXTINF:0,Bein Sports 5 FullHD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/63.ts
-#EXTINF:0,Bein Sports 6HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/38.ts
-#EXTINF:0,Bein Sports 6 Full
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/48.ts
-#EXTINF:0,Bein Sports 6 FullHD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/64.ts
-#EXTINF:0,Bein Sports 7HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/39.ts
-#EXTINF:0,Bein Sports 8HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/40.ts
-#EXTINF:0,Bein Sports 9HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/41.ts
-#EXTINF:0,Bein Sports 10HD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/42.ts
-#EXTINF:0,http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/65.ts
-#EXTINF:0,BeIN Sports 1SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/66.ts
-#EXTINF:0,BeIN Sports-1SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/312.ts
-#EXTINF:0,BeIN Sports 2SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/67.ts
-#EXTINF:0,BeIN Sports-2SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/313.ts
-#EXTINF:0,BeIN Sports 3SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/68.ts
-#EXTINF:0,BeIN Sports-3SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/314.ts
-#EXTINF:0,BeIN Sports 4SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/69.ts
-#EXTINF:0,BeIN Sports-4SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/315.ts
-#EXTINF:0,BeIN Sports 5SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/70.ts
-#EXTINF:0,BeIN Sports-5SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/316.ts
-#EXTINF:0,BeIN Sports 6SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/71.ts
-#EXTINF:0,BeIN Sports-6SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/317.ts
-#EXTINF:0,BeIN Sports 7SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/72.ts
-#EXTINF:0,BeIN Sports 8SD
-http://iptv-janberyan.com:25461/live/99993320258220/99993320258220/73.ts
+#EXTINF:0,beINSport 1 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/995
+#EXTINF:0,beINSport 1 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/979
+#EXTINF:0,beINSport 1 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6963
+#EXTINF:0,beINSport 2 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/994
+#EXTINF:0,beINSport 2 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/978
+#EXTINF:0,beINSport 2 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6962
+#EXTINF:0,beINSport 3 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/993
+#EXTINF:0,beINSport 3 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/977
+#EXTINF:0,beINSport 3 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6961
+#EXTINF:0,beINSport 4 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/992
+#EXTINF:0,beINSport 4 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/976
+#EXTINF:0,beINSport 4 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6960
+#EXTINF:0,beINSport 5 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/991
+#EXTINF:0,beINSport 5 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/975
+#EXTINF:0,beINSport 5 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6959
+#EXTINF:0,beINSport 6 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/990
+#EXTINF:0,beINSport 6 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/974
+#EXTINF:0,beINSport 6 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6958
+#EXTINF:0,beINSport 7 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/989
+#EXTINF:0,beINSport 7 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/973
+#EXTINF:0,beINSport 7 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6957
+#EXTINF:0,beINSport 8 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/988
+#EXTINF:0,beINSport 8 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/972
+#EXTINF:0,beINSport 8 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6956
+#EXTINF:0,beINSport 9 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/987
+#EXTINF:0,beINSport 9 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/971
+#EXTINF:0,beINSport 9 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6955
+#EXTINF:0,beINSport 10 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/986
+#EXTINF:0,beINSport 10 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/970
+#EXTINF:0,beINSport 10 HD VIP ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/6954
+#EXTINF:0,beINSport 11 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/985
+#EXTINF:0,beINSport 11 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/969
+#EXTINF:0,beINSport 12 ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/984
+#EXTINF:0,beINSport 12 HD ARB
+http://restream.geniptv.com:8080/live:sageevshantha/vf6nMKIQwq/968
 #EXTINF:0,VIP AR: Bein Sport HD1 1080P
 http://client-proiptv.com:8080/IEEcFLdOZp/Ujid6GwwQT/13800
 #EXTINF:0,VIP AR: Bein Sport HD1 1080P50
