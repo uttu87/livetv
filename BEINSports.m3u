@@ -1,4 +1,78 @@
 #EXTM3U
+#EXTINF:0,Beryan TV HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/354.ts
+#EXTINF:0,Beryan TV HD+
+http://beryantv.com:25461/live/44433120444001/44433120444001/355.ts
+#EXTINF:0,Bein Sports 1HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/33.ts
+#EXTINF:0,Bein Sports 1 Full
+http://beryantv.com:25461/live/44433120444001/44433120444001/43.ts
+#EXTINF:0,Bein Sports 1 FullHD
+http://beryantv.com:25461/live/44433120444001/44433120444001/59.ts
+#EXTINF:0,Bein Sports 2HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/34.ts
+#EXTINF:0,Bein Sports 2 Full
+http://beryantv.com:25461/live/44433120444001/44433120444001/44.ts
+#EXTINF:0,Bein Sports 2 FullHD
+http://beryantv.com:25461/live/44433120444001/44433120444001/60.ts
+#EXTINF:0,Bein Sports 3HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/35.ts
+#EXTINF:0,Bein Sports 3 Full
+http://beryantv.com:25461/live/44433120444001/44433120444001/45.ts
+#EXTINF:0,Bein Sports 3 FullHD
+http://beryantv.com:25461/live/44433120444001/44433120444001/61.ts
+#EXTINF:0,Bein Sports 4HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/36.ts
+#EXTINF:0,Bein Sports 4 Full
+http://beryantv.com:25461/live/44433120444001/44433120444001/46.ts
+#EXTINF:0,Bein Sports 4 FullHD
+http://beryantv.com:25461/live/44433120444001/44433120444001/62.ts
+#EXTINF:0,Bein Sports 5HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/37.ts
+#EXTINF:0,Bein Sports 5 Full
+http://beryantv.com:25461/live/44433120444001/44433120444001/47.ts
+#EXTINF:0,Bein Sports 5 FullHD
+http://beryantv.com:25461/live/44433120444001/44433120444001/63.ts
+#EXTINF:0,Bein Sports 6HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/38.ts
+#EXTINF:0,Bein Sports 6 Full
+http://beryantv.com:25461/live/44433120444001/44433120444001/48.ts
+#EXTINF:0,Bein Sports 6 FullHD
+http://beryantv.com:25461/live/44433120444001/44433120444001/64.ts
+#EXTINF:0,Bein Sports 7HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/39.ts
+#EXTINF:0,Bein Sports 8HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/40.ts
+#EXTINF:0,Bein Sports 9HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/41.ts
+#EXTINF:0,Bein Sports 10HD
+http://beryantv.com:25461/live/44433120444001/44433120444001/42.ts
+#EXTINF:0,❀☞BeIN Sports SD ☜❀
+http://beryantv.com:25461/live/44433120444001/44433120444001/65.ts
+#EXTINF:0,Beryan TV SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/356.ts
+#EXTINF:0,Beryan TV SD+
+http://beryantv.com:25461/live/44433120444001/44433120444001/357.ts
+#EXTINF:0,Beryan TV 360p
+http://beryantv.com:25461/live/44433120444001/44433120444001/358.ts
+#EXTINF:0,Beryan TV 160p
+http://beryantv.com:25461/live/44433120444001/44433120444001/359.ts
+#EXTINF:0,BeIN Sports 1SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/66.ts
+#EXTINF:0,BeIN Sports 2SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/67.ts
+#EXTINF:0,BeIN Sports 3SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/68.ts
+#EXTINF:0,BeIN Sports 4SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/69.ts
+#EXTINF:0,BeIN Sports 5SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/70.ts
+#EXTINF:0,BeIN Sports 6SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/71.ts
+#EXTINF:0,BeIN Sports 7SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/72.ts
+#EXTINF:0,BeIN Sports 8SD
+http://beryantv.com:25461/live/44433120444001/44433120444001/73.ts
 #EXTINF:0,BEINSPORTS 5 SD
 http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/42.ts
 #EXTINF:0,BEINSPORTS 5 HD BACKUP
@@ -106,336 +180,4 @@ http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.ts
 #EXTINF:0,BEINSPORTS 4 HD BACKUP
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/8.ts
 #EXTINF:0,BEINSPORTS 4 HD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
-#EXTINF:0,|AR| BEINSPORTS MAX 1 HD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
-#EXTINF:-1,|AR| BEINSPORTS HD
-http://siptv-online.com:8789/live/19865/19865/24980.m3u8
-#EXTINF:-1,|AR| BEINSPORT 1 HD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
-#EXTINF:-1,|AR| BEINSPORTS BKP1
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/2.ts
-#EXTINF:-1,|AR| BEINSPORT 2 HD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts
-#EXTINF:-1,|AR| BEINSPORTS BKP2
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/4.ts
-#EXTINF:-1,|AR| BEINSPORT 3 HD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/5.ts
-#EXTINF:-1,|AR| BEINSPORTS BKP3
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/6.ts
-#EXTINF:-1,|AR| BEINSPORT 4 HD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
-#EXTINF:-1,|AR| BEINSPORTS BKP4
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/8.ts
-#EXTINF:-1,|AR| BEINSPORT 5 HD
-http://siptv-online.com:8789/live/19865/19865/13680.m3u8
-#EXTINF:-1,|AR| BEINSPORTS BKP5
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/10.ts
-#EXTINF:-1,|AR| BEINSPORT 6 HD
-http://siptv-online.com:8789/live/19865/19865/13678.m3u8
-#EXTINF:-1,|AR| BEINSPORTS BKP6
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/12.ts
-#EXTINF:-1,|AR| BEINSPORT 7 HD
-http://siptv-online.com:8789/live/19865/19865/13676.m3u8
-#EXTINF:-1,|AR| BEINSPORTS BKP7
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/14.ts
-#EXTINF:-1,|AR| BEINSPORT 8 HD
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/15.ts
-#EXTINF:-1,|AR| BEINSPORTS BKP8
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/16.ts
-#EXTINF:-1,|AR| BEINSPORT 9 HD
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/17.ts
-#EXTINF:-1,|AR| BEINSPORTS 9 BKP
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/18.ts
-#EXTINF:-1,|AR| BEINSPORT 10 HD
-http://siptv-online.com:8789/live/19865/19865/13670.m3u8
-#EXTINF:-1,|AR| BEINSPORTS BKP10
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/20.ts
-#EXTINF:-1,|AR| BEINSPORTS HD11
-http://siptv-online.com:8789/live/19865/19865/24977.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD13
-http://siptv-online.com:8789/live/19865/19865/21202.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD14
-http://siptv-online.com:8789/live/19865/19865/21201.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD15
-http://siptv-online.com:8789/live/19865/19865/21200.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD16
-http://siptv-online.com:8789/live/19865/19865/21199.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD17
-http://siptv-online.com:8789/live/19865/19865/21198.m3u8
-#EXTINF:-1,|AR|****BEINSPORT FHD ****|AR|
-http://siptv-online.com:8789/live/19865/19865/24981.m3u8
-#EXTINF:-1,|AR| BEINSPORT 1 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/25.ts
-#EXTINF:-1,|AR| BEINSPORT 2 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/26.ts
-#EXTINF:-1,|AR| BEINSPORT 3 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/27.ts
-#EXTINF:-1,|AR| BEINSPORT 4 FHD
-http://siptv-online.com:8789/live/19865/19865/13608.m3u8
-#EXTINF:-1,|AR| BEINSPORT 5 FHD
-http://siptv-online.com:8789/live/19865/19865/13607.m3u8
-#EXTINF:-1,|AR| BEINSPORT 6 FHD
-http://siptv-online.com:8789/live/19865/19865/13606.m3u8
-#EXTINF:-1,|AR| BEINSPORT 7 FHD
-http://siptv-online.com:8789/live/19865/19865/13605.m3u8
-#EXTINF:-1,|AR| BEINSPORT 8 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/34.ts
-#EXTINF:-1,|AR| BEINSPORT 9 FHD
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/30.ts
-#EXTINF:-1,|AR| BEINSPORT 10 FHD
-http://siptv-online.com:8789/live/19865/19865/13602.m3u8
-#EXTINF:-1,|AR|*****BEOUTQ SPORTS*****|AR|
-http://siptv-online.com:8789/live/19865/19865/28659.m3u8
-#EXTINF:-1,|AR| BEOUTQ SPORT 1 HD
-http://siptv-online.com:8789/live/19865/19865/28658.m3u8
-#EXTINF:-1,|AR| BEOUTQ SPORT 2 HD
-http://siptv-online.com:8789/live/19865/19865/28657.m3u8
-#EXTINF:-1,|AR| BEOUTQ SPORT 3 HD
-http://siptv-online.com:8789/live/19865/19865/28656.m3u8
-#EXTINF:-1,|AR| BEOUTQ SPORT 4 HD
-http://siptv-online.com:8789/live/19865/19865/28655.m3u8
-#EXTINF:-1,|AR| BEOUTQ SPORT 5 HD
-http://siptv-online.com:8789/live/19865/19865/28654.m3u8
-#EXTINF:-1,|AR| BEOUTQ SPORT 6 HD
-http://siptv-online.com:8789/live/19865/19865/28653.m3u8
-#EXTINF:-1,|AR|*****BEINSPORT SD*****|AR|
-http://siptv-online.com:8789/live/19865/19865/24982.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 1  SD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/47.ts
-#EXTINF:-1,|AR| BEINSPORTS 2  SD
-http://siptv-online.com:8789/live/19865/19865/13612.m3u8
-#EXTINF:-1,|AR| BEINSPORTS 3  SD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/44.ts
-#EXTINF:-1,|AR| BEINSPORTS 4  SD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/43.ts
-#EXTINF:-1,|AR| BEINSPORTS 5  SD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/42.ts
-#EXTINF:-1,|AR| BEINSPORTS 6  SD
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/41.ts
-#EXTINF:-1,|AR| BEINSPORTS 7 SD
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/40.ts
-#EXTINF:-1,|AR| BEINSPORTS 8 SD
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/39.ts
-#EXTINF:-1,|AR| BEINSPORTS 9  SD
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/38.ts
-#EXTINF:-1,|AR| BEINSPORTS 10  SD
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/46.ts
-#EXTINF:-1,|AR| BEINSPORTS 11  SD
-http://siptv-online.com:8789/live/19865/19865/13643.m3u8
-#EXTINF:-1,|AR| AD SPORT 1HD
-http://siptv-online.com:8789/live/19865/19865/21196.m3u8
-#EXTINF:-1,|AR| AD SPORT 2HD
-http://siptv-online.com:8789/live/19865/19865/21195.m3u8
-#EXTINF:-1,|AR| AD SPORT 3HD
-http://siptv-online.com:8789/live/19865/19865/21194.m3u8
-#EXTINF:-1,|AR| AD SPORT 4HD
-http://siptv-online.com:8789/live/19865/19865/21193.m3u8
-#EXTINF:-1,|AR| AD SPORT 5HD
-http://siptv-online.com:8789/live/19865/19865/21192.m3u8
-#EXTINF:-1,|AR| AD SPORT 6HD
-http://siptv-online.com:8789/live/19865/19865/21191.m3u8
-#EXTINF:-1,|FR|***SPORT***|FR|
-http://siptv-online.com:8789/live/19865/19865/24929.m3u8
-#EXTINF:-1,|FR| RMC SPORT NEWS FHD
-http://siptv-online.com:8789/live/19865/19865/35031.m3u8
-#EXTINF:-1,|FR| RMC SPORT 1FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/40
-#EXTINF:-1,|FR| RMC SPORT 1HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/62
-#EXTINF:-1,|FR| RMC SPORT 1 SD
-http://iptv3.premium-stv.com:8789/live/RMCSPORTS1.P2/G0CpoMPwyQpro2/33.ts
-#EXTINF:-1,|FR| RMC SPORT ACCESS 1 HD
-http://siptv-online.com:8789/live/19865/19865/37931.m3u8
-#EXTINF:-1,|FR| RMC SPORT 2FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/41
-#EXTINF:-1,|FR| RMC SPORT 2HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/63
-#EXTINF:-1,|FR| RMC SPORT 2 SD
-http://iptv3.premium-stv.com:8789/live/RMCSPORTS2.P2/Ywx4YaPR5gpro2/31.ts
-#EXTINF:-1,|FR| RMC SPORT ACCESS 2 HD
-http://siptv-online.com:8789/live/19865/19865/37930.m3u8
-#EXTINF:-1,|FR| RMC SPORT 3FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
-#EXTINF:-1,|FR| RMC SPORT 3HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/42
-#EXTINF:-1,|FR| RMC SPORT 3 SD
-http://iptv3.premium-stv.com:8789/live/RMCSPORTS3.P2/wKmbMbaJsvpro2/29.ts
-#EXTINF:-1,|FR| RMC SPORT ACCESS 3 HD
-http://siptv-online.com:8789/live/19865/19865/37929.m3u8
-#EXTINF:-1,|FR| RMC SPORT 4FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/43
-#EXTINF:-1,|FR| RMC SPORT 4HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/65
-#EXTINF:-1,|FR| RMC SPORT 5 HD
-http://iptv3.premium-stv.com:8789/live/RMCSPORTS5.P2/015x7klWf7pro2/25.ts
-#EXTINF:-1,|FR| RMC SPORT 4K
-http://siptv-online.com:8789/live/19865/19865/37942.m3u8
-#EXTINF:-1,|FR| RMC SPORT LIVE 5 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
-#EXTINF:-1,|FR| RMC SPORT LIVE 6 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
-#EXTINF:-1,|FR| RMC SPORT LIVE 7 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
-#EXTINF:-1,|FR| RMC SPORT LIVE 8 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
-#EXTINF:-1,|FR| RMC SPORT LIVE 9 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
-#EXTINF:-1,|FR| RMC SPORT LIVE 10 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/48
-#EXTINF:-1,|FR| RMC SPORT LIVE 11 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/49
-#EXTINF:-1,|FR| RMC SPORT LIVE 12 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/50
-#EXTINF:-1,|FR| RMC SPORT LIVE 13 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/51
-#EXTINF:-1,|FR| RMC SPORT LIVE 14 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/52
-#EXTINF:-1,|FR| RMC SPORT LIVE 15 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/53
-#EXTINF:-1,|FR| RMC SPORT LIVE 16 FHD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/54
-#EXTINF:-1,|FR| BEINSPORTS 1 F.HD
-http://siptv-online.com:8789/live/19865/19865/14160.m3u8
-#EXTINF:-1,|FR| BEINSPORTS 1 HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/71
-#EXTINF:-1,|FR| BEINSPORT 1 SD
-http://iptv3.premium-stv.com:8789/live/BEINSPORT1.P2/tXZpKWyfkapro2/49.ts
-#EXTINF:-1,|FR| BEINSPORTS 2 F.HD
-http://siptv-online.com:8789/live/19865/19865/14159.m3u8
-#EXTINF:-1,|FR| BEINSPORTS 2 HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/68
-#EXTINF:-1,|FR| BEINSPORT 2 SD
-http://iptv3.premium-stv.com:8789/live/BEINSPORT2.P2/e9ZI2py4xnpro2/48.ts
-#EXTINF:-1,|FR| BEINSPORTS 3 F.HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/46
-#EXTINF:-1,|FR| BEINSPORTS 3 HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/69
-#EXTINF:-1,|FR| BEINSPORT 3 SD
-http://iptv3.premium-stv.com:8789/live/BEINSPORT3.P2/UleKyCRkVSpro2/47.ts
-#EXTINF:-1,|FR| BEINSPORT MAX 4
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/55
-#EXTINF:-1,|FR| BEINSPORT MAX 5
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/56
-#EXTINF:-1,|FR| BEINSPORT MAX 6
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/57
-#EXTINF:-1,|FR| BEINSPORT MAX 7
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/58
-#EXTINF:-1,|FR| BEINSPORT MAX 8
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/59
-#EXTINF:-1,|FR| BEINSPORT MAX 9
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/60
-#EXTINF:-1,|FR| BEIN SPORT MAX 10
-http://iptv3.premium-stv.com:8789/live/BEINMAX.P2/rQM4G5r09Y/56.ts
-#EXTINF:-1,|FR| CANAL+ SPORT F.HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/47
-#EXTINF:-1,|FR| CANAL+ SPORT HD
-http://iptv3.premium-stv.com:25461/sourcesportpro2/0359030035/70
-#EXTINF:-1,BEINSPORTS 5 SD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/42.ts
-#EXTINF:-1,BEINSPORTS 5 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/10.ts
-#EXTINF:-1,BEINSPORTS 5 HD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/9.ts
-#EXTINF:-1,BEINSPORTS 5 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/29.ts
-#EXTINF:-1,BEINSPORTS 6 SD
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/41.ts
-#EXTINF:-1,BEINSPORTS 6 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/32.ts
-#EXTINF:-1,BEINSPORTS 6 HD  BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/12.ts
-#EXTINF:-1,BEINSPORTS 6 HD
-http://iptv2.premium-stv.com:8888/live/BEIN6/ZffOncRDKK/11.ts
-#EXTINF:-1,BEINSPORTS 7 SD
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/40.ts
-#EXTINF:-1,BEINSPORTS 7 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/14.ts
-#EXTINF:-1,BEINSPORTS 7 HD
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/13.ts
-#EXTINF:-1,BEINSPORTS 7 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN7/uVXyuCtM1h/33.ts
-#EXTINF:-1,BEINSPORTS 8 SD
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/39.ts
-#EXTINF:-1,BEINSPORTS 8 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/16.ts
-#EXTINF:-1,BEINSPORTS 8 HD
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/15.ts
-#EXTINF:-1,BEINSPORTS 8 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN8/XkI3AtcEjT/34.ts
-#EXTINF:-1,BEINSPORTS 9 SD
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/38.ts
-#EXTINF:-1,BEINSPORTS 9 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/18.ts
-#EXTINF:-1,BEINSPORTS 9 HD
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/17.ts
-#EXTINF:-1,BEINSPORTS 9 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN9/N9YjKdd0MY/30.ts
-#EXTINF:-1,BEINSPORTS 10 SD
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/46.ts
-#EXTINF:-1,BEINSPORTS 10 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/20.ts
-#EXTINF:-1,BEINSPORTS 10 HD
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/19.ts
-#EXTINF:-1,BEINSPORTS 10 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN10/Q5HdLOn0fc/31.ts
-#EXTINF:-1,BEINSPORTS 11 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/22.ts
-#EXTINF:-1,BEINSPORTS 11 HD
-http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/21.ts
-#EXTINF:-1,BEINSPORTS 11 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN11/Sd0k1YMGa1/35.ts
-#EXTINF:-1,BEINSPORTS 12 HD
-http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/23.ts
-#EXTINF:-1,BEINSPORTS 12 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN12/jwdoFoCeXw/36.ts
-#EXTINF:-1,BEINSPORTS 13 HD
-http://iptv2.premium-stv.com:8888/live/BEIN13/CdXoi1R1yQ/24.ts
-#EXTINF:-1,BEINSPORTS 13 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN13/CdXoi1R1yQ/37.ts
-#EXTINF:-1,beINSPORT 1 SD
-http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/35.ts
-#EXTINF:-1,beINSPORT 1 HD
-http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/34.ts
-#EXTINF:-1,beIN SPORTS 1 FHD
-http://iptv1.premium-stv.com:8000/live/beinsports1/4vgUw50udN/33.ts
-#EXTINF:-1,BEINSPORTS 2 SD
-http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/38.ts
-#EXTINF:-1,BEINSPORTS 2 HD
-http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/36.ts
-#EXTINF:-1,BEINSPORTS 2 FHD
-http://iptv1.premium-stv.com:8000/live/beinsports2/bgN9xhRhYV/37.ts
-#EXTINF:-1,beINSPORTS 3 SD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/41.ts
-#EXTINF:-1,BEINSPORTS 3 HD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/40.ts
-#EXTINF:-1,beINSPORT 3 FHD
-http://iptv1.premium-stv.com:8000/live/BEINSPORTS3/48kyWpBsoQ/39.ts
-#EXTINF:-1,BEINSPORTS 1 SD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/47.ts
-#EXTINF:-1,BEINSPORTS 1 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/25.ts
-#EXTINF:-1,BEINSPORTS 1 HD
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/1.ts
-#EXTINF:-1,BEINSPORTS 1 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN1/GQEZOG45EAZR63/2.ts
-#EXTINF:-1,BEINSPORTS 2 SD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/45.ts
-#EXTINF:-1,BEINSPORTS 2 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/26.ts
-#EXTINF:-1,BEINSPORTS 2 HD
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/3.ts
-#EXTINF:-1,BEINSPORTS 2 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN2/x8ZD4RdhNm/4.ts
-#EXTINF:-1,BEINSPORTS 3 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/27.ts
-#EXTINF:-1,BEINSPORTS 3 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/6.ts
-#EXTINF:-1,BEINSPORTS 3 HD
-http://iptv2.premium-stv.com:8888/live/BEIN3/0jWkR45MqZ/5.ts
-#EXTINF:-1,BEINSPORTS 4 FULLHD
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.ts
-#EXTINF:-1,BEINSPORTS 4 HD BACKUP
-http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/8.ts
-#EXTINF:-1,BEINSPORTS 4 HD
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
