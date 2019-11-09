@@ -1,78 +1,4 @@
 #EXTM3U
-#EXTINF:0,Beryan TV HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/354.ts
-#EXTINF:0,Beryan TV HD+
-http://beryantv.com:25461/live/44433120444001/44433120444001/355.ts
-#EXTINF:0,Bein Sports 1HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/33.ts
-#EXTINF:0,Bein Sports 1 Full
-http://beryantv.com:25461/live/44433120444001/44433120444001/43.ts
-#EXTINF:0,Bein Sports 1 FullHD
-http://beryantv.com:25461/live/44433120444001/44433120444001/59.ts
-#EXTINF:0,Bein Sports 2HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/34.ts
-#EXTINF:0,Bein Sports 2 Full
-http://beryantv.com:25461/live/44433120444001/44433120444001/44.ts
-#EXTINF:0,Bein Sports 2 FullHD
-http://beryantv.com:25461/live/44433120444001/44433120444001/60.ts
-#EXTINF:0,Bein Sports 3HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/35.ts
-#EXTINF:0,Bein Sports 3 Full
-http://beryantv.com:25461/live/44433120444001/44433120444001/45.ts
-#EXTINF:0,Bein Sports 3 FullHD
-http://beryantv.com:25461/live/44433120444001/44433120444001/61.ts
-#EXTINF:0,Bein Sports 4HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/36.ts
-#EXTINF:0,Bein Sports 4 Full
-http://beryantv.com:25461/live/44433120444001/44433120444001/46.ts
-#EXTINF:0,Bein Sports 4 FullHD
-http://beryantv.com:25461/live/44433120444001/44433120444001/62.ts
-#EXTINF:0,Bein Sports 5HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/37.ts
-#EXTINF:0,Bein Sports 5 Full
-http://beryantv.com:25461/live/44433120444001/44433120444001/47.ts
-#EXTINF:0,Bein Sports 5 FullHD
-http://beryantv.com:25461/live/44433120444001/44433120444001/63.ts
-#EXTINF:0,Bein Sports 6HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/38.ts
-#EXTINF:0,Bein Sports 6 Full
-http://beryantv.com:25461/live/44433120444001/44433120444001/48.ts
-#EXTINF:0,Bein Sports 6 FullHD
-http://beryantv.com:25461/live/44433120444001/44433120444001/64.ts
-#EXTINF:0,Bein Sports 7HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/39.ts
-#EXTINF:0,Bein Sports 8HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/40.ts
-#EXTINF:0,Bein Sports 9HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/41.ts
-#EXTINF:0,Bein Sports 10HD
-http://beryantv.com:25461/live/44433120444001/44433120444001/42.ts
-#EXTINF:0,❀☞BeIN Sports SD ☜❀
-http://beryantv.com:25461/live/44433120444001/44433120444001/65.ts
-#EXTINF:0,Beryan TV SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/356.ts
-#EXTINF:0,Beryan TV SD+
-http://beryantv.com:25461/live/44433120444001/44433120444001/357.ts
-#EXTINF:0,Beryan TV 360p
-http://beryantv.com:25461/live/44433120444001/44433120444001/358.ts
-#EXTINF:0,Beryan TV 160p
-http://beryantv.com:25461/live/44433120444001/44433120444001/359.ts
-#EXTINF:0,BeIN Sports 1SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/66.ts
-#EXTINF:0,BeIN Sports 2SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/67.ts
-#EXTINF:0,BeIN Sports 3SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/68.ts
-#EXTINF:0,BeIN Sports 4SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/69.ts
-#EXTINF:0,BeIN Sports 5SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/70.ts
-#EXTINF:0,BeIN Sports 6SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/71.ts
-#EXTINF:0,BeIN Sports 7SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/72.ts
-#EXTINF:0,BeIN Sports 8SD
-http://beryantv.com:25461/live/44433120444001/44433120444001/73.ts
 #EXTINF:0,BEINSPORTS 5 SD
 http://iptv2.premium-stv.com:8888/live/BEIN5/Awq87aGnqS/42.ts
 #EXTINF:0,BEINSPORTS 5 HD BACKUP
@@ -181,3 +107,31 @@ http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/28.ts
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/8.ts
 #EXTINF:0,BEINSPORTS 4 HD
 http://iptv2.premium-stv.com:8888/live/BEIN4/SSMDSHFKod/7.ts
+#EXTINF:-1 ,US: Bein Sports 1
+http://nitro.ltd:25461/gustavo1/gustavo1/15178
+#EXTINF:-1 ,US: Bein Sports 2
+http://nitro.ltd:25461/gustavo1/gustavo1/15177
+#EXTINF:-1 ,US: Bein Sports 4
+http://nitro.ltd:25461/gustavo1/gustavo1/15175
+#EXTINF:-1 ,US: Bein Sports 5
+http://nitro.ltd:25461/gustavo1/gustavo1/15174
+#EXTINF:-1 ,US: Bein Sports 6
+http://nitro.ltd:25461/gustavo1/gustavo1/15173
+#EXTINF:-1 ,US: Bein Sports 7
+http://nitro.ltd:25461/gustavo1/gustavo1/15172
+#EXTINF:-1 ,US: Bein Sports 8
+http://nitro.ltd:25461/gustavo1/gustavo1/15171
+#EXTINF:-1 ,US: Bein Sports HD
+http://nitro.ltd:25461/gustavo1/gustavo1/1450
+#EXTINF:-1 ,ES: beIN Sport FHD
+http://nitro.ltd:25461/gustavo1/gustavo1/40023
+#EXTINF:-1 ,ES: bein Sport HD VIP
+http://nitro.ltd:25461/gustavo1/gustavo1/40022
+#EXTINF:-1 ,ES: beIN SPORTS LaLiga
+http://nitro.ltd:25461/gustavo1/gustavo1/40021
+#EXTINF:-1 ,ES: beINSport HD
+http://nitro.ltd:25461/gustavo1/gustavo1/40020
+#EXTINF:-1 ,PH: beIN Sports1
+http://nitro.ltd:25461/gustavo1/gustavo1/40275
+#EXTINF:-1 ,PH: beIN Sports2
+http://nitro.ltd:25461/gustavo1/gustavo1/40274
