@@ -1,0 +1,12 @@
+{
+"app_version":"1.0.0",
+"app_version_int":100,
+"subscriptions":[
+{"service_id":0,"url":"https://www.youtube.com/channel/UCG5qGWdu8nIRZqJ_GgDwQ-w","name":"Premier League"},
+{"service_id":0,"url":"https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA","name":"LaLiga"},
+{"service_id":0,"url":"https://www.youtube.com/channel/UC6UL29enLNe4mqwTfAyeNuw","name":"Bundesliga"},
+{"service_id":0,"url":"https://www.youtube.com/channel/UCZrV-3Mvk8KPX1wyCqs7vGw","name":"Messi Magic™"},
+{"service_id":0,"url":"https://www.youtube.com/channel/UCBJeMCIeLQos7wacox4hmLQ","name":"Serie A"},
+{"service_id":0,"url":"https://www.youtube.com/channel/UCZsapl0PQ1dZ7pHYoBpRCow","name":"Cristiano Ronaldo"}
+]
+}
