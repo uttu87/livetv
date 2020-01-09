@@ -1,0 +1,34 @@
+[
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCG5qGWdu8nIRZqJ_GgDwQ-w",
+    "name": "Premier League",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78zCFuhA8ZdbuWQlj2er4xaFjIrzOcKJVV7iw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 695000,
+    "description": "Welcome to the official Premier League YouTube channel. Keep up to date with the latest content from the Premier League. Subscribe to the official Premier Le..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA",
+    "name": "LaLiga",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-bnhv8mLIx2IGuLtrhNivz6BXgm8K_zYLx3w=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 5030000,
+    "description": "Relive all LaLiga Santander football. Don't miss all the highlights of the best league in the world, the goals of the stars, the most controversial plays or ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC6UL29enLNe4mqwTfAyeNuw",
+    "name": "Bundesliga",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-7bWIo4ahohzQgtnSz1lj2m6Vmhn2yWyhXxA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 1730000,
+    "description": "Welcome to the official YouTube page of the Bundesliga! Check out our schedule below (CET) to see what kind of content we'll bring to you every week - not on..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCBJeMCIeLQos7wacox4hmLQ",
+    "name": "Serie A",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_Ax_GLBEC6Z13CqPYnOZS2g9BkFRU9u11B=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 3830000,
+    "description": "Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights,..."
+  }
+]
