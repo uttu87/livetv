@@ -1,6 +1,54 @@
 [
   {
     "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC14UlmYlSNiQCBe9Eookf_A",
+    "name": "FC Barcelona",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_xIeAaNoxu3RKitg2XBvlgWeyUGjbpv5bB0A=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 8690000,
+    "description": "🔵🔴 Welcome to FC Barcelona's official YouTube channel! 🎥 Highlights, challenges, interviews, vlogs, live shows and much more 🔔 Turn your notifications on and..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCWV3obpZVGgJ3j9FVhEjF2Q",
+    "name": "Real Madrid",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-rXdV1xeam5m8lfMQGJ8bhZ_Z4wlQrLQQWGw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 5370000,
+    "description": "⚽️🏆🌍 Welcome to the Official Real Madrid C.F. YouTube channel. Real Madrid is the most successful club in the history of football. Enjoy the best goals, high..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCpryVRk_VDudG8SHXgWcG0w",
+    "name": "Arsenal",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78X1e9ez2zlVPTlGLm1wOkG1s0WzPdScLAscQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 1650000,
+    "description": "Welcome to Arsenal's official YouTube channel Watch as we take you closer and show you the personality of the club. See what the players talk about over a cu..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCU2PacFf99vhb3hNiYDmxww",
+    "name": "Chelsea Football Club",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l797_G86CsvM_sUhUmVTkvjRqM1VwIgsoRjPPQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 1580000,
+    "description": "Welcome to the official YouTube channel of Chelsea Football Club."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC9LQwHZoucFT94I2h6JOcjw",
+    "name": "Liverpool FC",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78iTKioPGis7ZS91_1PqBCDMMZPfH1DNqkkkg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 3960000,
+    "description": "Passionate about Liverpool FC? Well, you're in the right place with new video uploads bringing you closer to the Reds every week. We bring you unprecedented ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCkzCjdRMrW2vXLx8mvPVLdQ",
+    "name": "Man City",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79ZjQTXRrRwn8jo6aijKi9OqDEJb7TC4WWt7w=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 2310000,
+    "description": "Subscribe for free - get closer to the stars of Manchester City with Tunnel Cam, Inside City, Inside Training, the latest news... plus lots more."
+  },
+  {
+    "service_id": 0,
     "url": "https://www.youtube.com/channel/UC6yW44UGJJBvYTlfC7CRg2Q",
     "name": "Manchester United",
     "avatar_url": "https://yt3.ggpht.com/a/AGF-l790mvafDUpraxqSn0osqxJm6jiNCq7Ei5eo5Q=s100-c-k-c0xffffffff-no-rj-mo",
@@ -9,26 +57,114 @@
   },
   {
     "service_id": 0,
-    "url": "https://www.youtube.com/channel/UCkzCjdRMrW2vXLx8mvPVLdQ",
-    "name": "Man City",
-    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79ZjQTXRrRwn8jo6aijKi9OqDEJb7TC4WWt7w=s100-c-k-c0xffffffff-no-rj-mo",
-    "subscriber_count": 2280000,
-    "description": "Subscribe for free - get closer to the stars of Manchester City with Tunnel Cam, Inside City, Inside Training, the latest news... plus lots more."
+    "url": "https://www.youtube.com/channel/UCEg25rdRZXg32iwai6N6l0w",
+    "name": "Tottenham Hotspur",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-tpnNvh4oSdl7DU-jYCqN3w_wLFsF1VQ8wyQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 917000,
+    "description": "Welcome to the official Tottenham Hotspur YouTube channel. You will find the latest #SpursNewStadium content, behind the scenes features, great goals and mor..."
   },
   {
     "service_id": 0,
-    "url": "https://www.youtube.com/channel/UCWV3obpZVGgJ3j9FVhEjF2Q",
-    "name": "Real Madrid",
-    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-rXdV1xeam5m8lfMQGJ8bhZ_Z4wlQrLQQWGw=s100-c-k-c0xffffffff-no-rj-mo",
-    "subscriber_count": 5330000,
-    "description": "⚽️🏆🌍 Welcome to the Official Real Madrid C.F. YouTube channel. Real Madrid is the most successful club in the history of football. Enjoy the best goals, high..."
+    "url": "https://www.youtube.com/channel/UCuzKFwdh7z2GHcIOX_tXgxA",
+    "name": "Atlético de Madrid",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_0RWWoNkYq8iokSiT4VtJnQrjsMpBdwadBbA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 244000,
+    "description": "La página oficial del Atlético de Madrid en YouTube."
   },
   {
     "service_id": 0,
-    "url": "https://www.youtube.com/channel/UC14UlmYlSNiQCBe9Eookf_A",
-    "name": "FC Barcelona",
-    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_xIeAaNoxu3RKitg2XBvlgWeyUGjbpv5bB0A=s100-c-k-c0xffffffff-no-rj-mo",
-    "subscriber_count": 8660000,
-    "description": "🔵🔴 Welcome to FC Barcelona's official YouTube channel! 🎥 Highlights, challenges, interviews, vlogs, live shows and much more 🔔 Turn your notifications on and..."
+    "url": "https://www.youtube.com/channel/UCZkcxFIsqW5htimoUQKA0iA",
+    "name": "FC Bayern Munich",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78nJVLSnKccqlFX2SQ7ge8yREobuT63edyrPQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 1350000,
+    "description": "Welcome to FC Bayern's official YouTube channel! You'll find all the latest news about the record German champions right here. Join us for live training sess..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCK8rTVgp3-MebXkmeJcQb1Q",
+    "name": "Borussia Dortmund",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78szV8Q3jSU4tjwaRUJCAyF386oQq2ewi2woQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 543000,
+    "description": "Heja BVB und herzlich willkommen auf dem offiziellen YouTube-Channel von Borussia Dortmund! Hier seid ihr hautnah dabei wie sonst nur auf der Südtribüne! Ob ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCt9a_qP9CqHCNwilf-iULag",
+    "name": "PSG - Paris Saint-Germain",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79_Z5PX8Zkc3S9cVaEVxZJzZ0KHZS8d5Evw4g=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 2120000,
+    "description": "Bienvenue sur la chaine officielle du Paris Saint-Germain sur Youtube ! 🎥 Highlights, challenges, interviews, vlogs, live shows and much more 🔔 Turn your not..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCHy548EHHX9f-ETJlm18Jiw",
+    "name": "AS MONACO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_n1lppFswChGucVtQlWSS-GXSpFW--3DpHYA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 110000,
+    "description": "Bienvenue sur la chaîne officielle de l'AS Monaco. Pour votre plus grand bonheur, retrouvez chaque semaine plusieurs vidéos : inside, entraînement, interview..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCLzKhsxrExAC6yAdtZ-BOWw",
+    "name": "Juventus",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l797IROg7CKPWXZarlsEroD0vIJqKs1HvVMT1w=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 2430000,
+    "description": "Welcome to the official YouTube channel of Juventus FC. Subscribe to watch exclusive content and all the latest videos. Benvenuti sul canale YouTube ufficial..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCvXzEblUa0cfny4HAJ_ZOWw",
+    "name": "Inter",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78n0oqocffY1b6PIH2kYRdGjb9l6Lew-XzH6A=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 575000,
+    "description": "📹 ⚫🔵 | Welcome to the official Inter YouTube channel! Sign up to get access to all the videos and exclusive content from FC Internazionale Milano including: ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCKcx1uK38H4AOkmfv4ywlrg",
+    "name": "AC Milan",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_0dAJIu_nXq18pJ0sOHc0e2LdO2XDZk000SA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 569000,
+    "description": "This is the official Youtube channel dedicated to A.C. Milan with interviews, match highlights, exclusive videoclips and much more. Il canale Youtube ufficia..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCTnCzHi0P6MH83er5OfZbzQ",
+    "name": "SSCNapoli",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-SZvJA-i9dtVzKsuxUFlig4HpeedB3mGJ_Hw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 151000,
+    "description": "L'unico canale ufficiale della Società Sportiva Calcio Napoli. www.sscnapoli.it www.sscnapoli.it/store/"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCLttSYJ6kPtlcurY96kXkQw",
+    "name": "AS Roma",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_pDQm042cCmUXRRhctxv8A84LjIYXhMPa6kA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 331000,
+    "description": "The official Youtube channel of AS Roma | Il canale ufficiale Youtube dell’AS Roma."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC8zrah5cNf2c3jKKeD_Z3fw",
+    "name": "Sport Lisboa e Benfica",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-nEqS8G9aN3cp0N7uJui6evcfqUg_M4auRRA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 166000,
+    "description": "Bem-vindo à Página de YouTube do Sport Lisboa e Benfica. Aqui podes ficar a par da atualidade do Clube. Para te manteres atualizado, subscreve ao canal para ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCQegzQwEExHgXvm_yHptzQg",
+    "name": "FC Porto",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-6e7r7Z6eKZqocDbTCgV5vAQNyfM9ajcYzvQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 138000,
+    "description": "Bem-vindo à Página Oficial de YouTube do Futebol Clube do Porto. Aqui podes acompanhar toda a actualidade do teu clube através das notícias do Porto Canal, d..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCGpf7WX7R1one-NwOvg_PbQ",
+    "name": "AFC Ajax",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_XAe_3KRrzycQi8HKDT6dNGrVnNeFiE-aFwg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 615000,
+    "description": "Welcome to the official Youtube channel of AFC Ajax. Never miss an upload? Subscribe now."
   }
 ]
