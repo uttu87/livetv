@@ -4,7 +4,7 @@
     "url": "https://www.youtube.com/channel/UCG5qGWdu8nIRZqJ_GgDwQ-w",
     "name": "Premier League",
     "avatar_url": "https://yt3.ggpht.com/a/AGF-l78zCFuhA8ZdbuWQlj2er4xaFjIrzOcKJVV7iw=s100-c-k-c0xffffffff-no-rj-mo",
-    "subscriber_count": 695000,
+    "subscriber_count": 705000,
     "description": "Welcome to the official Premier League YouTube channel. Keep up to date with the latest content from the Premier League. Subscribe to the official Premier Le..."
   },
   {
@@ -12,8 +12,16 @@
     "url": "https://www.youtube.com/channel/UCTv-XvfzLX3i4IGWAm4sbmA",
     "name": "LaLiga",
     "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-bnhv8mLIx2IGuLtrhNivz6BXgm8K_zYLx3w=s100-c-k-c0xffffffff-no-rj-mo",
-    "subscriber_count": 5030000,
+    "subscriber_count": 5040000,
     "description": "Relive all LaLiga Santander football. Don't miss all the highlights of the best league in the world, the goals of the stars, the most controversial plays or ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCs3Gqvp1tO-nK-XNzFlopsg",
+    "name": "LaLiga SmartBank",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_8tDcM3NFXY0XahxkuE-kv1b6pOa8JvzCOEA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 208000,
+    "description": "No te pierdas detalle de todo lo que suceda esta temporada en LaLiga SmartBank. // Don’t miss any detail of what happens this season in LaLiga SmartBank (Sec..."
   },
   {
     "service_id": 0,
@@ -28,7 +36,39 @@
     "url": "https://www.youtube.com/channel/UCBJeMCIeLQos7wacox4hmLQ",
     "name": "Serie A",
     "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_Ax_GLBEC6Z13CqPYnOZS2g9BkFRU9u11B=s100-c-k-c0xffffffff-no-rj-mo",
-    "subscriber_count": 3830000,
+    "subscriber_count": 3860000,
     "description": "Welcome to the Official Serie A channel. Over the season, we are going to produce and upload more than 5000 clips, updated everyday with Official Highlights,..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCQsH5XtIc9hONE1BQjucM0g",
+    "name": "Ligue 1 Conforama",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_PC7CYCCj8KXkB14kaI8fKIcsXtlpGoAqgEg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 1480000,
+    "description": "Bienvenue sur la chaîne officielle de la Ligue 1 sur Youtube ! Suivez toute l'actualité du Championnat de France et retrouvez dès le dimanche minuit les résu..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCyGa1YEx9ST66rYrJTGIKOw",
+    "name": "UEFA",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-v_vBOmCWWtlP1ksxAbsjZb8yLxni1DUqQZA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 2280000,
+    "description": "Welcome to UEFA's official YouTube channel. Subscribe for great goals, classic matches, legendary players, star challenges, plus exclusive access and action ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCfO4uULWZvEtCCj-lw1ZO5A",
+    "name": "Russian Premier Liga",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79pnIuS1feYnwYZ8XgWbB1TTljq6X4U8r20xA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 135000,
+    "description": "Official YouTube channel of Russian Premier Liga in English"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCuIlu5oGIj1RzHOYmeSV5Eg",
+    "name": "VSPORTS - Liga Portuguesa",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_v5JPMvq-WKpAMpheEGQnfnYmb_6qDIKw3MQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 143000,
+    "description": "Este é um canal dedicado ao futebol português, onde vais poder ver todos os vídeos dos golos, polémicas, resumos, tops, flash interviews, entre outros, da Li..."
   }
 ]
