@@ -1,61 +1,95 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS1 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/55.m3u8
-#EXTINF:-1,BEIN SPORTS2 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/41.m3u8
-#EXTINF:-1,BEIN SPORTS3 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/39.m3u8
-#EXTINF:-1,BEIN SPORTS4 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/37.m3u8
-#EXTINF:-1,BEIN SPORTS5 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/35.m3u8
-#EXTINF:-1,BEIN SPORTS6 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/33.m3u8
-#EXTINF:-1,BEIN SPORTS7 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/31.m3u8
-#EXTINF:-1,BEIN SPORTS8 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/29.m3u8
-#EXTINF:-1,BEIN SPORTS9 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/27.m3u8
-#EXTINF:-1,BEIN SPORTS10 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/53.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/51.m3u8
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/49.m3u8
-#EXTINF:-1,BEIN SPORTS FR 1
-http://190.2.132.7:8080/live/8901428641/chjpojdp/47.m3u8
-#EXTINF:-1,BEIN SPORTS FR 2
-http://190.2.132.7:8080/live/8901428641/chjpojdp/45.m3u8
-#EXTINF:-1,BEIN SPORTS FR 3
-http://190.2.132.7:8080/live/8901428641/chjpojdp/43.m3u8
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/54.m3u8
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/40.m3u8
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/38.m3u8
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/36.m3u8
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/34.m3u8
-#EXTINF:-1,BEIN SPORTS 6 SD 
-http://190.2.132.7:8080/live/8901428641/chjpojdp/32.m3u8
-#EXTINF:-1,BEIN SPORTS 7 SD 
-http://190.2.132.7:8080/live/8901428641/chjpojdp/30.m3u8
-#EXTINF:-1,BEIN SPORTS 8 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/28.m3u8
-#EXTINF:-1,BEIN SPORTS 9 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/26.m3u8
-#EXTINF:-1,BEIN SPORTS 10 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/52.m3u8
-#EXTINF:-1,BEIN SPORTS 11 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/50.m3u8
-#EXTINF:-1,BEIN SPORTS 12 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/48.m3u8
-#EXTINF:-1,BEIN SPORTS 13 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/46.m3u8
-#EXTINF:-1,BEIN SPORTS 14 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/44.m3u8
-#EXTINF:-1,BEIN SPORTS 15 SD
-http://190.2.132.7:8080/live/8901428641/chjpojdp/42.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 1 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/1.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 2 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 3 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/12.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 4 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/13.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 5 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/14.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 6 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/15.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 7 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/16.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 8 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/17.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 9 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/18.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 10 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/19.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 11 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/20.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 12 HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/21.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 1 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/34.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 2 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/35.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 3 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/36.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 4 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/37.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 5 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/38.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 6 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/39.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 7 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/40.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 8 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/41.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 9 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/42.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 10 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/43.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 11 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/5562.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 12 HQ
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/5563.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 1 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/22.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 2 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/23.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 3 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/24.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 4 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/25.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 5 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/26.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 6 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/27.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 7 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/28.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 8 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/29.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 9 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/30.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 10 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/31.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 11 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/32.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 12 HD Backup
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/33.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 1 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2474.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 2 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2473.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 3 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2472.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 4 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2471.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 5 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2470.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 6 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2469.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 7 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2468.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 8 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2533.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS 9 SD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/2467.m3u8
+#EXTINF:-1,[AR] BeIN SPORTS HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/4333.m3u8
+#EXTINF:-1,[AR] Bein SPORTS NEWS HD
+http://jaxiptv.com:25461/live/gjimi33/N6r11cNdgf/46.m3u8
