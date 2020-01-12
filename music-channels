@@ -1,0 +1,230 @@
+{
+  "app_version": "1.0.0",
+  "app_version_int": 100,
+  "subscriptions": [
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCq-Fj5jknLsUf-MWSy4_brA",
+      "name": "T-Series",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_pAUMBrwUj9lIAPzwKL1MKmb9q875ck73n2Q=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 124000000,
+      "description": "\"Music can change the world\". T-Series is India's largest Music Label & Movie Studio, believes in bringing world close together through its music. T-Series i..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCc7_woMAIVIW2mAr1rPCsFQ",
+      "name": "Paramore",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_MaVOq15n8yJTE6y6tEUwQGxNUZtnEVlhstQ=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 1380000,
+      "description": "The official YouTube channel of multi-platinum rock band Paramore. The band consists of lead vocalist Hayley Williams, guitarist Taylor York, and drummer Zac..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCFFbwnve3yF62-tVXkTyHqg",
+      "name": "Zee Music Company",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-o-FQ4aEdqCMNlLpCqpeF2kTtgTP33V8X5-g=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 48800000,
+      "description": "Zee Music Company is part of India's leading television media and entertainment companies. It is amongst the largest producers and aggregators of Hindi progr..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCbTLwN10NoCU4WDzLf1JMOA",
+      "name": "YRF",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79hQYPKrnRK9hOqy8TuUg4rcdDRDX05bYa7JQ=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 26900000,
+      "description": "Films. Music. Artistes. At our core, we’re storytellers. From making high-budget blockbusters to youth-oriented films, from working with the biggest actors o..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCbuK8xxu2P_sqoMnDsoBrrg",
+      "name": "WaveMusic",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-sBpjSGy2MV6xnPHATCUASyGjuTXfr2iojWg=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 3050000,
+      "description": "🌴Welcome to Paradise🌴 Your Home For The Best Electronic Music With Lyrics! All videos will be a lyric video with closed captions (CC) and have lyrics in the ..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC22nIfOTM7KLIQuFGMKzQbg",
+      "name": "Wave Music",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_TIkFTbn3rR0WwWmqxxn1iKyMMlT2AWvu2tw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 30600000,
+      "description": "This is the official YouTube channel of Wave Music, the leading bhojpuri music record label from India. We offer songs and music from popular bhojpuri albums..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCR5wZcXtOUka8jTA57flzMg",
+      "name": "netd müzik",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l78VQWcwRS_IMwtQlDWE3QAuuJTbPjEA4g8TUQ=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 16000000,
+      "description": "netd müzik, anlaşmalı müzik yapım firmalarından sağladığı, Türkçe pop müzikten alternatif müziğe kadar çeşitli tarzlardaki müzik kliplerinin resmi yayın plat..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCP6uH_XlsxrXwZQ4DlqbqPg",
+      "name": "Shemaroo Filmi Gaane",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_aq_bSBOWoxbFdxE8-bb39I4O82rzBEf8X_A=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 31100000,
+      "description": "Welcome to Shemaroo Filmi Gaane, a treat for every music lover and Bollywood connoisseur! Chart buster songs from super-hit movies like Anand, Don, Bobby, Pr..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCgwv23FVv3lqh567yagXfNg",
+      "name": "DisneyMusicVEVO",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79JJRq4tSq4fbyr5Tn8KWe1NEzVoEyH9Ixt7w=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 17400000,
+      "description": "Walt Disney Records is the flagship record label of the Walt Disney Company. Here at DisneyMusicVevo, we mix magic with music to produce albums enjoyed acros..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCB_QWj45Jy4LjxhrBhsw1WA",
+      "name": "disneymusicasiaVEVO",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79nEJ5qih8h1jxdcTEUnQj9Dgv9IPS1uxsJzQ=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 454000,
+      "description": ""
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC2pmfLm7iq6Ov1UwYrWYkZA",
+      "name": "Vevo",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79YSnQtxSGI1MjZbhukmdguFKhfqVFguDmvZw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 19100000,
+      "description": "Vevo on YouTube - Official Music Videos, Live Performances, Interviews and more..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA",
+      "name": "Big Hit Labels",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79c1_f4uVuJjJG70mnu7mT3lJ5EFCGZh6Kugw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 31300000,
+      "description": "Welcome to the official YouTube channel of Big Hit Labels, the content hub for Big Hit Entertainment, SOURCE MUSIC, BELIFT, and PLUS GLOBAL AUDITION."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC4rasfm9J-X4jNl9SvXp8xA",
+      "name": "Ultra Music",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-ixljzSYxzGtqqq25lCzlaF0dEcBjWCy_FhA=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 21000000,
+      "description": "Welcome to the Official Ultra Music channel, your destination for electronic dance music. Whether you want to listen to chill, electronic, dance, indie, trap..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCQeiBlCcS4-XGwFjrvDn96w",
+      "name": "Tones And I",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79smsdynUIlxx5o8pzlgzmASeJyEyOc2WJXjg=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 1680000,
+      "description": "Official YouTube channel for musician Tones And I. Subscribe and hit the bell for notifications so you never miss anything that's uploaded here."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UClZF7OsrECe3t_ADrjZEh_Q",
+      "name": "Geet MP3",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l78qho5ifw6W6qe2MBWRfYtcFPLXk8AOwC3tKg=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 17600000,
+      "description": "This Is The Official Channel Of Geet MP3 (Punjab) Geet MP3 believes in bringing world close together through its music, so all the music lovers who believe i..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCnhEWYj8kzM9LA0X-or4-tg",
+      "name": "Riddhi Music World",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-zRyWHtIjQOvriNWDSPscpzutJkhakn0PMDw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 1360000,
+      "description": "Welcome To Riddhi Music World Official Youtube Channel ."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCopY0NAzASqmD6eVaRj2TFQ",
+      "name": "White Hill Music",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79H_IM7SyL9bh0mJSDFGe2XADdyDvAPVs91TA=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 12600000,
+      "description": "Official Channel of White Hill Music & White Hill Production Visit our office for any type of Music & Movie releases Address : White Hill Music & Entertainme..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/user/TaylorSwiftVEVO",
+      "name": "TaylorSwiftVEVO",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l78jSjcRilhkD11bTIjnlJA1ziqBJwrVNXHPAw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": -1,
+      "description": ""
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCbVwJCxsVbmaP1PFmbGQDeQ",
+      "name": "MK MUSIC",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l795-kejV97Tl_EuCu24K98xfoS5C1fT-87O0w=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 8830000,
+      "description": "Este é o canal oficial da gravadora MK Music. Aqui você fica por dentro de vídeos relacionados aos nossos artistas e seus lançamentos. Nosso conteúdo é atual..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/user/MalumaVEVO",
+      "name": "MalumaVEVO",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-ROiKhg5NVKQBNoymqcqrIbZQ9qZVeuhyuRQ=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": -1,
+      "description": "Maluma en Vevo – Videoclips oficiales, Lyric videos, Sesiones en vivo, Entrevistas y muchos más..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCZzwjZPc6R_PbnDgFVMwlvQ",
+      "name": "Capital FM",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l78Ax4uyH-Cx2De-ATeridNhQPXnIZXIopghMg=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 4080000,
+      "description": "Welcome to the official YouTube channel for the UK's No.1 Hit Music Station. Make sure you subscribe to get all your updates on your favourite celebrities, g..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCo07fumrTn1w4AxcU4j_uDw",
+      "name": "Times Music",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l79eVkvQ9C3bm_G3qnX7SS_kZPxjV9m9SKUmOA=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 5490000,
+      "description": "Times Music is one of India's premier music labels with a fantastic track record in all forms of music like Devotional, Indian Classical, Indipop, Bollywood,..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ",
+      "name": "Thuy Nga",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l78VS0pJ0nwXb8_Nw0NoEFkw4G8AEKJ2IJY7dA=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 3240000,
+      "description": "Thuy Nga Paris By Night Official Site Thuy Nga is the number one recording company, providing state-of-the art music videos performed by the top Vietnamese a..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCwTRjvjVge51X-ILJ4i22ew",
+      "name": "Sing King Karaoke",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-GA1xxmp0Ac2uXESBwuu4g4B3GId8KZTRbJw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 6760000,
+      "description": "We are Sing King Karaoke. A YouTube channel dedicated to bringing you the best free karaoke content - from the brand new to the old classics, we're committed..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCFQ9AY7oyEqRS7iVXJLNSmw",
+      "name": "Sonotek Music",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l78ENzCoHxeICM__tEKgWdx0ms4HCv5iK0F4yw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 5300000,
+      "description": "\"Music can change the world\". Sonotek Cassettes is India's largest Music Label & Movie Studio, believes in bringing world close together through its music. S..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC3zVeAaoPEN1Tu25dW3G2Ig",
+      "name": "Sonotek",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_8CRiNHXld5G0AHCd-Zuqvi-dEWMkJP_XmJA=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": 13500000,
+      "description": "Sonotek - India's first Haryanvi Music Company. Number one YouTube Channel for Haryanvi Songs, Desi Ragni, Haryanvi Lokgeets, Haryanvi Movies, Haryanvi Comed..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/user/SelenaGomezVEVO",
+      "name": "SelenaGomezVEVO",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-ftclaeZ0CsLWEH8ib23d2RXluNWbcefAQWg=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": -1,
+      "description": "Selena Gomez on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/user/RihannaVEVO",
+      "name": "RihannaVEVO",
+      "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_NB1kzlaFCkPfmZCR8UY8nmNtIMwCaM5GXGw=s100-c-k-c0xffffffff-no-rj-mo",
+      "subscriber_count": -1,
+      "description": "Rihanna on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+    }
+  ]
+}
