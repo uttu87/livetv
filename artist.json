@@ -1,0 +1,410 @@
+[
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCIwFjwMjI0y7PDBVEO9-bkQ",
+    "name": "Justin Bieber",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79v6g1vdo47Iy1P5g0TCCriepWHAnVsZ9vXag=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 48600000,
+    "description": "Help change the world. Yummy out now https://justinbieber.lnk.to/Yummy"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/JustinBieberVEVO",
+    "name": "JustinBieberVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-pdDqLRL961Qz4RY-MLE2QGUR0jfaTxef-cg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Justin Bieber on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC0C-w0YjGpqDXGB8IHb662A",
+    "name": "Ed Sheeran",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_T61FfwKxyz_YH7RTD71-Y29TqCYzk_4Ir=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 43200000,
+    "description": "Ed Sheeran's official YouTube channel!"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCEdvpU2pFRCVqU6yIPyTpMQ",
+    "name": "Marshmello",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79x-NAaYftqGbGJwIbwjLXyJgdaUjLdUBWQMA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 42200000,
+    "description": "be positive. be happy. and don't eat marshmellos ❤"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCfM3zsQsOnfWNUppiycmBuw",
+    "name": "EminemMusic",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-nvcpJYEvwEM2WKo1nF1f74wzb3fMiu87mJg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 40200000,
+    "description": "Marshall Bruce Mathers III, better known by his stage name Eminem (stylized as EMINƎM) and by his alter ego Slim Shady, is an American rapper, record produce..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/EminemVEVO",
+    "name": "EminemVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79RDzH0C6eyRM1VP4CpBFsUskA0zu76b6BpLQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Eminem on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC9CoOnJkIBMdeijd9qYoT_g",
+    "name": "Ariana Grande",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-lV1E-93ZFAKjZv4B48fb_BArHVPCPGHlLIA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 39400000,
+    "description": "https://arianagrande.lnk.to/swtlive"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/ArianaGrandeVevo",
+    "name": "ArianaGrandeVevo",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-nHekFE2g5wiWYWvuCYMeCsit8YiwBZ3K1wQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Listen to thank u, next: https://arianagrande.lnk.to/tun-albumYD"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCqECaJ8Gagnn7YCbPEzWH6g",
+    "name": "Taylor Swift",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78QGQhnnkaQh0_WooibgTjC_ayLjlXvKNkFvQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 36800000,
+    "description": "Lover out now"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/TaylorSwiftVEVO",
+    "name": "TaylorSwiftVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78jSjcRilhkD11bTIjnlJA1ziqBJwrVNXHPAw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": ""
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCYvmuw-JtVrTZQ-7Y4kd63Q",
+    "name": "Katy Perry",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_J2Wfp1KTYcGILVs6o-bS8gQ7SpD19WkRUPg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 35900000,
+    "description": "https://www.katyperry.com/"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/KatyPerryVEVO",
+    "name": "KatyPerryVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78jFNqlYlSHTrjjt692sZ-F6jJjPuFhhj4b-A=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Katy Perry on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCcgqSM4YEo5vVQpqwN-MaNw",
+    "name": "Rihanna",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78cE8jb3vGeUg8DjlF35A_BUx0Gxhx2YIw6wA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 33500000,
+    "description": "It’s hard to believe that Rihanna is only 30 years old. Yet within the 10 years since the start of her musical career, she’s become the youngest solo artist ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/RihannaVEVO",
+    "name": "RihannaVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_NB1kzlaFCkPfmZCR8UY8nmNtIMwCaM5GXGw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Rihanna on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A",
+    "name": "BLACKPINK",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-NQdbfxI9mOxPjpTV5NZ34oHC56_TgbLIHAA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 32500000,
+    "description": "BLACKPINK Official YouTube Channel 블랙핑크 공식 유튜브 채널입니다. JISOO, JENNIE, ROSÉ, LISA 지수, 제니, 로제, 리사"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCJrOtniJ0-NWz37R30urifQ",
+    "name": "Alan Walker",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78HAmFDMf57YlM4kxeb7UBm1Cy_Ur_ivyM6zg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 31900000,
+    "description": "When I was a kid, I had a fascination for programming and graphic design. Music kind of just happened spontaneously a few years back. I found a track on Yout..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCb2HGwORFBo94DmRx4oLzow",
+    "name": "One Direction",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-9NNk5erCRcLxALaN_sst30gbZOOW1JWR3wg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 30400000,
+    "description": ""
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/OneDirectionVEVO",
+    "name": "OneDirectionVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79aFwgbhhFbGICAx5oGAW6NGuR4hx2Mvb6gfg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "One Direction on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCBVjMGOIkavEAhyqpxJ73Dw",
+    "name": "Maroon 5",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79Ui8CWzxLl_H4FDAMy5LVw04jzWSFfeJ_3wA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 29300000,
+    "description": "Welcome to the Maroon 5 official Youtube Channel. Head to our website for more info- www.maroon5.com"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/Maroon5VEVO",
+    "name": "Maroon5VEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79j-8UVD_h5ACBzyYE2Y0aOE9ivYnyzVA88qw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Maroon 5 on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCYLNGLIzMhRTi6ZOLjAPSmw",
+    "name": "Shakira",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-taVa17chaC0XUOZJ47WWZxLxhANqhvqOuTg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 27200000,
+    "description": "Welcome to Shakira's Official YouTube Channel. Bienvenidos al Canal Oficial de Shakira en Youtube"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/shakiraVEVO",
+    "name": "shakiraVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_AJPVkwfXkFYkUJ5TWC21077dTn2vbluy56w=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Shakira on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCjIA3wwhi0QjSOXAZwOXbPA",
+    "name": "Ozuna",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78SNsHKCpqZRLSDHokIGBH-TkpWfFcJ0lIuWA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 27000000,
+    "description": "This is the official YouTube Channel of OZUNA. Singer, songwriter and actor from Puerto Rico and the Dominican Republic. Hits include \"Si Tu Marido No Te Qui..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCxoq-PAQeAdk_zyg8YS0JqA",
+    "name": "Luis Fonsi",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78PTpMiwr6ypA57wLB80I6l81L8jEKTFBF3lQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 26800000,
+    "description": "Hola amigos! Soy Luis Fonsi y este es mi canal de YouTube en donde compartiré con ustedes algunas de mis presentaciones en vivo, backstages, anécdotas, entre..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/LuisFonsiVEVO",
+    "name": "LuisFonsiVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-xbjXcMm1xSjaLZ5L8nUmXU6RzAlicYFbrUQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Luis Fonsi en Vevo – Videoclips oficiales, Lyric videos, Sesiones en vivo, Entrevistas y muchos más..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC9TO_oo4c_LrOiKNaY6aysA",
+    "name": "Daddy Yankee",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79bo-fAGlyGhAshf1JM1TaRYECjpPwPxNoMyQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 27000000,
+    "description": "Icono y rey urbano, este es el canal oficial de música de Daddy Yankee en YouTube. Daddy Yankee es la estrella de reggaetón, hip hop, pop, urbano y latino de..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/DaddyYankeeVEVO",
+    "name": "DaddyYankeeVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l783PMyo9NlbMJhnQgeEAIoWpJ87R_HiFOxSmQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Daddy Yankee"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/DYNATION",
+    "name": "Daddy Yankee Nation",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l793dMZQbNajskuv51eR9wgioLV8Y-nSW2TYYA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Ramón Luis Ayala Rodriguez, más conocido como Daddy Yankee nació el 3 de Febrero de 1977 en la ciudad de San Juan, Puerto Rico. Es un cantante, compositor y ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA",
+    "name": "Bruno Mars",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_mGsQjw1lWyx_1keNShTNnP6kWkPerGrThEg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 26300000,
+    "description": ""
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCAvCL8hyXjSUHKEGuUPr1BA",
+    "name": "Shawn Mendes",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-j_GDAFxMo83yEj3AlfadWIm2Z-F6S3c2ixg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 24700000,
+    "description": "Whats up guys! tweet me !"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC4-TgOSMJHn-LtY4zCzbQhw",
+    "name": "ShawnMendesVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79Ur86Zkvwo9S47UJtxdd7C2oGaRm5zGA1IOA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Shawn Mendes on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCPNxhDvTcytIdvwXWAm43cA",
+    "name": "Selena Gomez",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_rwqSxaKtyb--b-sr4p_bhHgjEPaxsLVpyvw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 24300000,
+    "description": "Official Selena Gomez YouTube Channel!"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/SelenaGomezVEVO",
+    "name": "SelenaGomezVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-ftclaeZ0CsLWEH8ib23d2RXluNWbcefAQWg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Selena Gomez on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ",
+    "name": "BANGTANTV",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79SwwqytCpN0-tKYS7hWiKAnWn6e4dJvv0Xew=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 24600000,
+    "description": "BTS Official YouTube Channel"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCZhskpD2GI_O-mmEcKyhU8A",
+    "name": "BTS FUNNY MOMENTS",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l791Zkon6pSjtKQvkHxE-7H4B1v4Rey0R97K3A=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 212000,
+    "description": "✪ [BTS is My Life ] ✪ Subscribe: https://www.youtube.com/user/familyguy479 ✪ Fanpage: https://www.facebook.com/BTSTUN99 ✪THANK YOU FOR WATCHING✪"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCiGm_E4ZwYSHV3bcW1pnSeQ",
+    "name": "Billie Eilish",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l78g8jP2oznmRKteVHzbBrFQ9PgQsd2tj6N-5g=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 24800000,
+    "description": ""
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/BillieEilishVEVO",
+    "name": "BillieEilishVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79qDQebQCd1UWNzY9bpnImjfgNvKeDlyPEkVw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "15-year-old Los Angeles songstress Billie Eilish resembles something of a fairy tale heroine—albeit with a wicked sense of humor, and inimitable fashion sens..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCM9r1xn6s30OnlJWb-jc3Sw",
+    "name": "XXXTENTACION",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l790BB6Trrr2PPU2V-6s8ATMGGC-Leyoe_vCVQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 23400000,
+    "description": "on youtube I will be gaming with fans and friends and expanding my fanbase beyond comparison, I want to be bigger than an artist or \"rapper\" so feel free to ..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCt-k6JwNWHMXDBGm9IYHdsg",
+    "name": "J Balvin",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-Hv8Rs2RkK_b2DhOtvpT2fPxFJesKlnS4l_g=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 23200000,
+    "description": "Canal Oficial de J Balvin management@jbalvinelnegocio.com"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/jbalvinVEVO",
+    "name": "jbalvinVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_qJg8dhx7VPp2t1kGALbc4sYt7XdNdVvB4YQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "J Balvin en Vevo – Videoclips oficiales, Lyric videos, Sesiones en vivo, Entrevistas y muchos más..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UClZuKq2m0Qu-HkopkSBLpEw",
+    "name": "Maluma",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l785XjkPIG8GF20Z1XL37H-mJLIIPd2CVz5YYA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 22700000,
+    "description": ""
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/MalumaVEVO",
+    "name": "MalumaVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-ROiKhg5NVKQBNoymqcqrIbZQ9qZVeuhyuRQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Maluma en Vevo – Videoclips oficiales, Lyric videos, Sesiones en vivo, Entrevistas y muchos más..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCmBA_wu8xGg1OfOkfW13Q0Q",
+    "name": "Bad Bunny",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_Xym9GUojAQ8VFcZOj-Y-aJa6cKxtzlVPB9A=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 20900000,
+    "description": "Canal Oficial de Bad Bunny"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC1l7wYrva1qCH-wgqcHaaRg",
+    "name": "David Guetta",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_rW8YUnkftKS3OxwwOeNkSyWcequz6hIqn2Q=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 21100000,
+    "description": "The OFFICIAL YouTube channel for David Guetta. All your favorite music videos, lyric videos, documentaries, and behind-the-scenes access in one location. Mak..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCsRM0YB_dabtEPGPTKo-gcw",
+    "name": "Adele",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_iqYWSasDjkGYg3D_-zS_xMug6i4fnCf7bkQ=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 20800000,
+    "description": "The official YouTube channel of ADELE."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/AdeleVEVO",
+    "name": "AdeleVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-_Q7PrX-b9g3D8RTijY3BXhKo36NTU1rN5Lw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": ""
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UC3jOd7GUMhpgJRBhiLzuLsg",
+    "name": "Nicki Minaj",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7_vqccxxDxFieUKrpd_P8b2bejKYVJ1Sq-oZA=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 20100000,
+    "description": "Subscribe to the official Nicki Minaj channel on YouTube for new music and exclusive videos!"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/NickiMinajAtVEVO",
+    "name": "NickiMinajAtVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l79jQg8L3SVPsQsGErzoGEcyi0EUSg-ce9B_Kw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "Nicki Minaj on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCVp3nfGRxmMadNDuVbJSk8A",
+    "name": "Wiz Khalifa",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-NZv6N2lZ71I3REkO3wk4ti88igUV2lGhzDg=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 20100000,
+    "description": "Wiz Khalifa's Official YouTube Channel Taylor Gang Ent. / Atlantic Records"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg",
+    "name": "The Chainsmokers",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-l-6j1IgUYneu_oeKHXN7ndtdLslaklRed3g=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": 20000000,
+    "description": "The Chainsmokers - Alex Pall & Drew Taggart Never Washed, Always Conditioned Management: Adam Alpert adam@disruptorrecords.com"
+  },
+  {
+    "service_id": 0,
+    "url": "https://www.youtube.com/user/ChainsmokersVEVO",
+    "name": "ChainsmokersVEVO",
+    "avatar_url": "https://yt3.ggpht.com/a/AGF-l7-XoIz06-1_KgCD83CdlQyBXNhWatBXSLpMbw=s100-c-k-c0xffffffff-no-rj-mo",
+    "subscriber_count": -1,
+    "description": "The Chainsmokers on Vevo - Official Music Videos, Live Performances, Interviews and more..."
+  }
+]
