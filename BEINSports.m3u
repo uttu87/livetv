@@ -1,158 +1,206 @@
-#EXTINF:-1,BEIN-SPORT-1-HD
-http://tv2iptv.com:8000/live/badr/badr1234/29.m3u8
-#EXTINF:-1,BEIN-SPORT-2-HD
-http://tv2iptv.com:8000/live/badr/badr1234/30.m3u8
-#EXTINF:-1,BEIN-SPORT-3-HD
-http://tv2iptv.com:8000/live/badr/badr1234/31.m3u8
-#EXTINF:-1,BEIN-SPORT-4-HD
-http://tv2iptv.com:8000/live/badr/badr1234/32.m3u8
-#EXTINF:-1,BEIN-SPORT-5-HD
-http://tv2iptv.com:8000/live/badr/badr1234/33.m3u8
-#EXTINF:-1,BEIN-SPORT-6-HD
-http://tv2iptv.com:8000/live/badr/badr1234/34.m3u8
-#EXTINF:-1,BEIN-SPORT-7-HD
-http://tv2iptv.com:8000/live/badr/badr1234/35.m3u8
-#EXTINF:-1,BEIN-SPORT-8-HD
-http://tv2iptv.com:8000/live/badr/badr1234/36.m3u8
-#EXTINF:-1,BEIN-SPORT-9-HD
-http://tv2iptv.com:8000/live/badr/badr1234/37.m3u8
-#EXTINF:-1,BEIN-SPORT-10-HD
-http://tv2iptv.com:8000/live/badr/badr1234/38.m3u8
-#EXTINF:-1,BEIN-SPORT-11-HD
-http://tv2iptv.com:8000/live/badr/badr1234/1033.m3u8
-#EXTINF:-1,BEIN-SPORT-12-HD
-http://tv2iptv.com:8000/live/badr/badr1234/1034.m3u8
-#EXTINF:-1,BEIN-SPORT-13-HD
-http://tv2iptv.com:8000/live/badr/badr1234/1035.m3u8
-#EXTINF:-1,BEIN-SPORT-14-HD
-http://tv2iptv.com:8000/live/badr/badr1234/1036.m3u8
-#EXTINF:-1,BEIN-SPORT-15-HD
-http://tv2iptv.com:8000/live/badr/badr1234/23529.m3u8
-#EXTINF:-1,BEIN-SPORT-16-HD
-http://tv2iptv.com:8000/live/badr/badr1234/23528.m3u8
-#EXTINF:-1,BEIN-SPORT-NBA-HD
-http://tv2iptv.com:8000/live/badr/badr1234/23526.m3u8
-#EXTINF:-1,Bein-1-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34640.m3u8
-#EXTINF:-1,Bein-2-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34639.m3u8
-#EXTINF:-1,Bein-3-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34638.m3u8
-#EXTINF:-1,Bein-4-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34637.m3u8
-#EXTINF:-1,Bein-5-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34636.m3u8
-#EXTINF:-1,Bein-6-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34635.m3u8
-#EXTINF:-1,Bein-7-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34634.m3u8
-#EXTINF:-1,Bein-8-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34633.m3u8
-#EXTINF:-1,Bein-9-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34632.m3u8
-#EXTINF:-1,Bein-10-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/34631.m3u8
-#EXTINF:-1,Bein11-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/47779.m3u8
-#EXTINF:-1,Bein12-hevc
-http://tv2iptv.com:8000/live/badr/badr1234/47780.m3u8
-#EXTINF:-1,BEIN_SPORT_1
-http://tv2iptv.com:8000/live/badr/badr1234/18761.m3u8
-#EXTINF:-1,BEIN_SPORT_2
-http://tv2iptv.com:8000/live/badr/badr1234/18760.m3u8
-#EXTINF:-1,BEIN_SPORT_3
-http://tv2iptv.com:8000/live/badr/badr1234/18759.m3u8
-#EXTINF:-1,BEIN_SPORT_4
-http://tv2iptv.com:8000/live/badr/badr1234/18758.m3u8
-#EXTINF:-1,BEIN_SPORT_5
-http://tv2iptv.com:8000/live/badr/badr1234/18757.m3u8
-#EXTINF:-1,BEIN_SPORT_6
-http://tv2iptv.com:8000/live/badr/badr1234/18756.m3u8
-#EXTINF:-1,BEIN_SPORT_7
-http://tv2iptv.com:8000/live/badr/badr1234/18755.m3u8
-#EXTINF:-1,BEIN_SPORT_8
-http://tv2iptv.com:8000/live/badr/badr1234/18754.m3u8
-#EXTINF:-1,BEIN_SPORT_9
-http://tv2iptv.com:8000/live/badr/badr1234/18753.m3u8
-#EXTINF:-1,BEIN_SPORT_10
-http://tv2iptv.com:8000/live/badr/badr1234/18752.m3u8
-#EXTINF:-1,BEIN_SPORT_1_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17770.m3u8
-#EXTINF:-1,BEIN_SPORT_2_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17769.m3u8
-#EXTINF:-1,BEIN_SPORT_3_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17768.m3u8
-#EXTINF:-1,BEIN_SPORT_4_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17767.m3u8
-#EXTINF:-1,BEIN_SPORT_5_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17766.m3u8
-#EXTINF:-1,BEIN_SPORT_6_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17765.m3u8
-#EXTINF:-1,BEIN_SPORT_7_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17764.m3u8
-#EXTINF:-1,BEIN_SPORT_8_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17763.m3u8
-#EXTINF:-1,BEIN_SPORT_9_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17762.m3u8
-#EXTINF:-1,BEIN_SPORT_10_HD
-http://tv2iptv.com:8000/live/badr/badr1234/17761.m3u8
-#EXTINF:-1,BEIN_1_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22780.m3u8
-#EXTINF:-1,BEIN_2_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22779.m3u8
-#EXTINF:-1,BEIN_3_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22778.m3u8
-#EXTINF:-1,BEIN_4_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22777.m3u8
-#EXTINF:-1,BEIN_5_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22776.m3u8
-#EXTINF:-1,BEIN_6_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22775.m3u8
-#EXTINF:-1,BEIN_7_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22774.m3u8
-#EXTINF:-1,BEIN_8_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22773.m3u8
-#EXTINF:-1,BEIN_9_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22772.m3u8
-#EXTINF:-1,BEIN_10_4K
-http://tv2iptv.com:8000/live/badr/badr1234/22771.m3u8
-#EXTINF:-1,BEIN-SPORT-1-SD
-http://tv2iptv.com:8000/live/badr/badr1234/48.m3u8
-#EXTINF:-1,BEIN-SPORT-2-SD
-http://tv2iptv.com:8000/live/badr/badr1234/47.m3u8
-#EXTINF:-1,BEIN-SPORT-3-SD
-http://tv2iptv.com:8000/live/badr/badr1234/46.m3u8
-#EXTINF:-1,BEIN-SPORT-4-SD
-http://tv2iptv.com:8000/live/badr/badr1234/45.m3u8
-#EXTINF:-1,BEIN-SPORT-5-SD
-http://tv2iptv.com:8000/live/badr/badr1234/44.m3u8
-#EXTINF:-1,BEIN-SPORT-6-SD
-http://tv2iptv.com:8000/live/badr/badr1234/43.m3u8
-#EXTINF:-1,BEIN-SPORT-7-SD
-http://tv2iptv.com:8000/live/badr/badr1234/41.m3u8
-#EXTINF:-1,BEIN-SPORT-8-SD
-http://tv2iptv.com:8000/live/badr/badr1234/40.m3u8
-#EXTINF:-1,BEIN-SPORT-9-SD
-http://tv2iptv.com:8000/live/badr/badr1234/39.m3u8
-#EXTINF:-1,BEIN-SPORT-10-SD
-http://tv2iptv.com:8000/live/badr/badr1234/42.m3u8
-#EXTINF:-1,beIN Sports 1HD
-http://tv2iptv.com:8000/live/badr/badr1234/25813.m3u8
-#EXTINF:-1,beIN Sports 2HD
-http://tv2iptv.com:8000/live/badr/badr1234/25812.m3u8
-#EXTINF:-1,beIN Sports 3HD
-http://tv2iptv.com:8000/live/badr/badr1234/25811.m3u8
-#EXTINF:-1,beIN Sports 4HD
-http://tv2iptv.com:8000/live/badr/badr1234/25810.m3u8
-#EXTINF:-1,beIN Sports 5HD
-http://tv2iptv.com:8000/live/badr/badr1234/25809.m3u8
-#EXTINF:-1,beIN Sports 6HD
-http://tv2iptv.com:8000/live/badr/badr1234/25808.m3u8
-#EXTINF:-1,beIN Sports 7HD
-http://tv2iptv.com:8000/live/badr/badr1234/25807.m3u8
-#EXTINF:-1,beIN Sports 8HD
-http://tv2iptv.com:8000/live/badr/badr1234/25806.m3u8
-#EXTINF:-1,beIN Sports 9HD
-http://tv2iptv.com:8000/live/badr/badr1234/25805.m3u8
-#EXTINF:-1,beIN Sports 10HD
-http://tv2iptv.com:8000/live/badr/badr1234/25804.m3u8
+#EXTINF:-1,BS | beinsport HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43413.m3u8
+#EXTINF:-1,BS | beIN  Sport 10HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43414.m3u8
+#EXTINF:-1,BS | beINSport1HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43415.m3u8
+#EXTINF:-1,BS | beINSport2 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43416.m3u8
+#EXTINF:-1,BS | beINSport3 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43417.m3u8
+#EXTINF:-1,BS | beINSport4 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43418.m3u8
+#EXTINF:-1,BS | beINSport5 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43419.m3u8
+#EXTINF:-1,BS | beINSport6 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43420.m3u8
+#EXTINF:-1,BS | beINSport7 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43421.m3u8
+#EXTINF:-1,BS | beINSport8 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43422.m3u8
+#EXTINF:-1,BS | beIN Sport 9HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43423.m3u8
+#EXTINF:-1,BS | beIN SPORT 10HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43424.m3u8
+#EXTINF:-1,BS | bein sport HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43425.m3u8
+#EXTINF:-1,BS | bein sport UHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43426.m3u8
+#EXTINF:-1,BS | beIN Sport1
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43427.m3u8
+#EXTINF:-1,BS | beIN Sport1 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43428.m3u8
+#EXTINF:-1,BS | beIN Sport1 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43429.m3u8
+#EXTINF:-1,BS | beIN Sport10
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43430.m3u8
+#EXTINF:-1,BS | beIN Sport10 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43431.m3u8
+#EXTINF:-1,BS | beIN Sport2
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43432.m3u8
+#EXTINF:-1,BS | beIN Sport2 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43433.m3u8
+#EXTINF:-1,BS | beIN Sport2 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43434.m3u8
+#EXTINF:-1,BS | beIN Sport3
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43435.m3u8
+#EXTINF:-1,BS | beIN Sport3 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43436.m3u8
+#EXTINF:-1,BS | beIN Sport3 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43437.m3u8
+#EXTINF:-1,BS | beIN Sport4
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43438.m3u8
+#EXTINF:-1,BS | beIN Sport4 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43439.m3u8
+#EXTINF:-1,BS | beIN Sport4 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43440.m3u8
+#EXTINF:-1,BS | beIN Sport5
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43441.m3u8
+#EXTINF:-1,BS | beIN Sport5 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43442.m3u8
+#EXTINF:-1,BS | beIN Sport5 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43443.m3u8
+#EXTINF:-1,BS | beIN Sport6 hd
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43444.m3u8
+#EXTINF:-1,BS | beIN Sport6 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43445.m3u8
+#EXTINF:-1,BS | beIN Sport6 UHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43446.m3u8
+#EXTINF:-1,BS | beIN Sport7 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43447.m3u8
+#EXTINF:-1,BS | beIN Sport7 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43448.m3u8
+#EXTINF:-1,BS | beIN Sport7 UHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43449.m3u8
+#EXTINF:-1,BS | beIN Sport8
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43450.m3u8
+#EXTINF:-1,BS | beIN Sport8 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43451.m3u8
+#EXTINF:-1,BS | beIN Sport8 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43452.m3u8
+#EXTINF:-1,BS | beIN Sport 9
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43453.m3u8
+#EXTINF:-1,BS | beIN Sport9 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43454.m3u8
+#EXTINF:-1,BS | beIN Sport9 HD+
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43455.m3u8
+#EXTINF:-1,BS | bein-Sport1 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43456.m3u8
+#EXTINF:-1,BS | bein-Sport10 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43457.m3u8
+#EXTINF:-1,BS | bein-Sport2 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43458.m3u8
+#EXTINF:-1,BS | bein-Sport3 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43459.m3u8
+#EXTINF:-1,BS | bein-Sport4 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43460.m3u8
+#EXTINF:-1,BS | bein-Sport5 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43461.m3u8
+#EXTINF:-1,BS | bein-Sport6 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43462.m3u8
+#EXTINF:-1,BS | bein-Sport7 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43463.m3u8
+#EXTINF:-1,BS | bein-Sport8 HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43464.m3u8
+#EXTINF:-1,BS | BEINSPORT6 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43465.m3u8
+#EXTINF:-1,BS | bein sport 8 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43466.m3u8
+#EXTINF:-1,BS | bein- Sport 9HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43467.m3u8
+#EXTINF:-1,BS | BEIN-SPORT 2 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43468.m3u8
+#EXTINF:-1,BS | Bein-Sport 3 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43469.m3u8
+#EXTINF:-1,BS | Bein-SPORT 4 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43470.m3u8
+#EXTINF:-1,BS | Bein-Sport 5 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43471.m3u8
+#EXTINF:-1,BS | Bein-Sport 6 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43472.m3u8
+#EXTINF:-1,BS | Bein-Sport 7 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43473.m3u8
+#EXTINF:-1,BS | Bein-Sport 8 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43474.m3u8
+#EXTINF:-1,BS | Bein-Sport 9 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43475.m3u8
+#EXTINF:-1,BS | bein sport
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43476.m3u8
+#EXTINF:-1,BS | Bein-Sport 1 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43477.m3u8
+#EXTINF:-1,BS | Bein Sport1 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43478.m3u8
+#EXTINF:-1,BS | BEIN SPORT 1 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43479.m3u8
+#EXTINF:-1,BS | BEIN SPORT FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43480.m3u8
+#EXTINF:-1,BS | bein sport 1 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43481.m3u8
+#EXTINF:-1,BS | Beinsport 2 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43482.m3u8
+#EXTINF:-1,BS | BEIN SPORT 2 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43483.m3u8
+#EXTINF:-1,BS | Bein SPORT 2 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43484.m3u8
+#EXTINF:-1,BS | BEIN SPORT 2 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43485.m3u8
+#EXTINF:-1,BS | BEINSPORT 3 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43486.m3u8
+#EXTINF:-1,BS | BEIN SPORT3 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43487.m3u8
+#EXTINF:-1,BS | BEINSPORT 3 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43488.m3u8
+#EXTINF:-1,BS | Bein Sport 3 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43489.m3u8
+#EXTINF:-1,BS | BEINSPORT4 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43490.m3u8
+#EXTINF:-1,BS | BEIN SPORT 4 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43491.m3u8
+#EXTINF:-1,BS | BEINSPORT 4 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43492.m3u8
+#EXTINF:-1,BS | BEIN SPORT 4 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43493.m3u8
+#EXTINF:-1,BS | BEINSPORT 5 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43494.m3u8
+#EXTINF:-1,BS | BEIN SPORT 5 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43495.m3u8
+#EXTINF:-1,BS | BEINSPORT 5 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43496.m3u8
+#EXTINF:-1,BS | BEIN SPORT 5 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43497.m3u8
+#EXTINF:-1,BS | BEINSPORT 6 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43498.m3u8
+#EXTINF:-1,BS | BEINSPORT 6 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43499.m3u8
+#EXTINF:-1,BS | BEIN SPORT 6 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43500.m3u8
+#EXTINF:-1,BS | BEINSPORT 7 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43501.m3u8
+#EXTINF:-1,BS | BEIN SPORT 7 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43502.m3u8
+#EXTINF:-1,BS | BEINSPORT 7 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43503.m3u8
+#EXTINF:-1,BS | BEIN SPORT7 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43504.m3u8
+#EXTINF:-1,BS | BEINSPORT 8 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43505.m3u8
+#EXTINF:-1,BS | BEIN SPORT 8 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43506.m3u8
+#EXTINF:-1,BS | BEINSPORT 8 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43507.m3u8
+#EXTINF:-1,BS | BEIN SPORT9 FUHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43508.m3u8
+#EXTINF:-1,BS | BEINSPORT 9 FH
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43509.m3u8
+#EXTINF:-1,BS | BEINSPORT 9 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43510.m3u8
+#EXTINF:-1,BS | BEIN SPORT 9 FHD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43511.m3u8
+#EXTINF:-1,BS | beIN SPORTS 14HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43513.m3u8
+#EXTINF:-1,BS | beIN SPORTS 13HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43514.m3u8
+#EXTINF:-1,BS | beIN SPORT 11HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43515.m3u8
+#EXTINF:-1,BS | beIN SPORT 12HD
+http://mytvonline.nl:80/live/mWtPaTSXPh/6h0O058YtL/43516.m3u8
