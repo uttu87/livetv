@@ -1,57 +1,74 @@
-#EXTINF:-1,|AR| BEIN SPORTS 1 HD
-http://185.23.213.162:8789/live/ania/ania/13688.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 1 BKP
-http://185.23.213.162:8789/live/ania/ania/13595.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
-http://185.23.213.162:8789/live/ania/ania/13687.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 HD
-http://185.23.213.162:8789/live/ania/ania/13686.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
-http://185.23.213.162:8789/live/ania/ania/13685.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 3 HD
-http://185.23.213.162:8789/live/ania/ania/13684.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 3 BKP
-http://185.23.213.162:8789/live/ania/ania/13683.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 4 HD
-http://185.23.213.162:8789/live/ania/ania/13682.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 4 BKP
-http://185.23.213.162:8789/live/ania/ania/13681.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 5 HD
-http://185.23.213.162:8789/live/ania/ania/13680.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 5 BKP
-http://185.23.213.162:8789/live/ania/ania/13679.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 6 HD
-http://185.23.213.162:8789/live/ania/ania/13678.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 6 BKP
-http://185.23.213.162:8789/live/ania/ania/13677.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 7 HD
-http://185.23.213.162:8789/live/ania/ania/13676.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 7 BKP
-http://185.23.213.162:8789/live/ania/ania/13675.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 8 HD
-http://185.23.213.162:8789/live/ania/ania/13674.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 8 BKP
-http://185.23.213.162:8789/live/ania/ania/13673.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 9 HD
-http://185.23.213.162:8789/live/ania/ania/13672.m3u8
-#EXTINF:-1,|AR| BEIN SPORTS 9 BKP
-http://185.23.213.162:8789/live/ania/ania/13587.m3u8
-#EXTINF:-1,|AR| BEINSPORT 10 HD
-http://185.23.213.162:8789/live/ania/ania/13670.m3u8
-#EXTINF:-1,|AR| BEINSPORT 10 BKP
-http://185.23.213.162:8789/live/ania/ania/13669.m3u8
-#EXTINF:-1,|AR| BEINSPORT 11 HD
-http://185.23.213.162:8789/live/ania/ania/24977.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD13
-http://185.23.213.162:8789/live/ania/ania/21202.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD14
-http://185.23.213.162:8789/live/ania/ania/21201.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD15
-http://185.23.213.162:8789/live/ania/ania/21200.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD16
-http://185.23.213.162:8789/live/ania/ania/21199.m3u8
-#EXTINF:-1,|AR| BEINSPORTS HD17
-http://185.23.213.162:8789/live/ania/ania/21198.m3u8
+#EXTM3U
+#EXTINF:-1,beIN Sports1 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1374.m3u8
+#EXTINF:-1,beIN Sports2 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1375.m3u8
+#EXTINF:-1,beIN Sports3 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1376.m3u8
+#EXTINF:-1,beIN Sports4 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1377.m3u8
+#EXTINF:-1,beIN Sports5 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1378.m3u8
+#EXTINF:-1,beIN Sports6 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1379.m3u8
+#EXTINF:-1,beIN Sports7 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1380.m3u8
+#EXTINF:-1,beIN Sports8 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1381.m3u8
+#EXTINF:-1,beIN Sports9 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1382.m3u8
+#EXTINF:-1,beIN Sports10 SD
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1383.m3u8
+#EXTINF:-1,BEINSPORTS-NEWS
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1384.m3u8
+#EXTINF:-1,Bein sport 1 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1385.m3u8
+#EXTINF:-1,Bein sport 2 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1386.m3u8
+#EXTINF:-1,Bein sport 3 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1387.m3u8
+#EXTINF:-1,Bein sport 4 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1388.m3u8
+#EXTINF:-1,Bein sport 5 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1389.m3u8
+#EXTINF:-1,Bein sport 6 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1390.m3u8
+#EXTINF:-1,Bein sport 7 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1391.m3u8
+#EXTINF:-1,Bein sport 8 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1392.m3u8
+#EXTINF:-1,Bein sport 9 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1393.m3u8
+#EXTINF:-1,Bein sport 11 SD-SIWAR
+http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1395.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport
+http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 1
+http://xxx12.trainer.pw/mubasher1/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport2
+http://xxx12.trainer.pw/mubasher2/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 3
+http://xxx12.trainer.pw/mubasher3/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 4
+http://xxx12.trainer.pw/mubasher4/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 6
+http://xxx12.trainer.pw/mubasher6/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 8
+http://xxx12.trainer.pw/mubasher8/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 9
+http://xxx12.trainer.pw/mubasher9/trainer.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 1
+http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
+http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
+http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",AR beIN Sports salamtv4
+http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_2
