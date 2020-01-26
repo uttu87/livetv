@@ -1,3 +1,57 @@
+#EXTINF:-1,|AR| BEIN SPORTS 1 HD
+http://185.23.213.162:8789/live/ania/ania/13688.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 1 BKP
+http://185.23.213.162:8789/live/ania/ania/13595.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
+http://185.23.213.162:8789/live/ania/ania/13687.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 HD
+http://185.23.213.162:8789/live/ania/ania/13686.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 2 BKP
+http://185.23.213.162:8789/live/ania/ania/13685.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 HD
+http://185.23.213.162:8789/live/ania/ania/13684.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 3 BKP
+http://185.23.213.162:8789/live/ania/ania/13683.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 HD
+http://185.23.213.162:8789/live/ania/ania/13682.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 4 BKP
+http://185.23.213.162:8789/live/ania/ania/13681.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD
+http://185.23.213.162:8789/live/ania/ania/13680.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 5 BKP
+http://185.23.213.162:8789/live/ania/ania/13679.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 HD
+http://185.23.213.162:8789/live/ania/ania/13678.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 6 BKP
+http://185.23.213.162:8789/live/ania/ania/13677.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD
+http://185.23.213.162:8789/live/ania/ania/13676.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 7 BKP
+http://185.23.213.162:8789/live/ania/ania/13675.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 HD
+http://185.23.213.162:8789/live/ania/ania/13674.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 8 BKP
+http://185.23.213.162:8789/live/ania/ania/13673.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 HD
+http://185.23.213.162:8789/live/ania/ania/13672.m3u8
+#EXTINF:-1,|AR| BEIN SPORTS 9 BKP
+http://185.23.213.162:8789/live/ania/ania/13587.m3u8
+#EXTINF:-1,|AR| BEINSPORT 10 HD
+http://185.23.213.162:8789/live/ania/ania/13670.m3u8
+#EXTINF:-1,|AR| BEINSPORT 10 BKP
+http://185.23.213.162:8789/live/ania/ania/13669.m3u8
+#EXTINF:-1,|AR| BEINSPORT 11 HD
+http://185.23.213.162:8789/live/ania/ania/24977.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD13
+http://185.23.213.162:8789/live/ania/ania/21202.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD14
+http://185.23.213.162:8789/live/ania/ania/21201.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD15
+http://185.23.213.162:8789/live/ania/ania/21200.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD16
+http://185.23.213.162:8789/live/ania/ania/21199.m3u8
+#EXTINF:-1,|AR| BEINSPORTS HD17
+http://185.23.213.162:8789/live/ania/ania/21198.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_2
