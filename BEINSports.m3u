@@ -1,139 +1,21 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports1 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1374.m3u8
-#EXTINF:-1,beIN Sports2 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1375.m3u8
-#EXTINF:-1,beIN Sports3 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1376.m3u8
-#EXTINF:-1,beIN Sports4 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1377.m3u8
-#EXTINF:-1,beIN Sports5 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1378.m3u8
-#EXTINF:-1,beIN Sports6 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1379.m3u8
-#EXTINF:-1,beIN Sports7 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1380.m3u8
-#EXTINF:-1,beIN Sports8 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1381.m3u8
-#EXTINF:-1,beIN Sports9 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1382.m3u8
-#EXTINF:-1,beIN Sports10 SD
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1383.m3u8
-#EXTINF:-1,BEINSPORTS-NEWS
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1384.m3u8
-#EXTINF:-1,Bein sport 1 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1385.m3u8
-#EXTINF:-1,Bein sport 2 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1386.m3u8
-#EXTINF:-1,Bein sport 3 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1387.m3u8
-#EXTINF:-1,Bein sport 4 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1388.m3u8
-#EXTINF:-1,Bein sport 5 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1389.m3u8
-#EXTINF:-1,Bein sport 6 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1390.m3u8
-#EXTINF:-1,Bein sport 7 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1391.m3u8
-#EXTINF:-1,Bein sport 8 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1392.m3u8
-#EXTINF:-1,Bein sport 9 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1393.m3u8
-#EXTINF:-1,Bein sport 11 SD-SIWAR
-http://xtreamv3-dreamsatsport.ddns.net:25461/live/BEIN0SD/t8dGBJITHt/1395.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport
-http://95.170.215.118/hls/m3u8/Kurd-Goal.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 1
-http://xxx12.trainer.pw/mubasher1/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport2
-http://xxx12.trainer.pw/mubasher2/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 3
-http://xxx12.trainer.pw/mubasher3/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 4
-http://xxx12.trainer.pw/mubasher4/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 6
-http://xxx12.trainer.pw/mubasher6/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 8
-http://xxx12.trainer.pw/mubasher8/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 9
-http://xxx12.trainer.pw/mubasher9/trainer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT", bein sport 1
-http://95.170.215.101/hls/m3u8/Bein-S1-a58.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
-http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
-http://vstreamgz.hadara.ps:8081/AlfajertvHD2_web/web1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
-http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",bein sport
-http://vstreamgz.hadara.ps:8081/AlfajertvHD1_web/web/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",AR beIN Sports salamtv4
-http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ALKASS_5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 1
-https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 2
-https://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 3
-https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Abu Dhabi Sports 4
-https://tvae.ercdn.net/adsport4/adsport4_720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",ON-Sport
-http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 1HD
-http://95.170.215.107/hls/KSA-Sport1-Bakup-M.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 1
-https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية دقة متوسطة 1
-https://edge-1192-ch-gv.filmon.com/live/1781.high.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية 2
-https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",الرياضية السعودية دقة متوسطة 2
-https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Dubai SPORT
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",DubaiRacing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",DubaiRacing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",البحرين الرياضية
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Oman SPORT
-http://38.96.148.35:1935/live/omantv02/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Jordan SPORT
-http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w1593498413.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Nile SPORT
-http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",maroc SPORT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-action
-http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-S-main-even
-http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spor-cricket
-http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-Pre-L
-http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spo-football-N
-http://95.170.215.120/hls/Sky-Spo-football-N.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Golf-MR
-http://95.170.215.120/hls/Sky-Sports-Golf-MR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Arena-MR
-http://95.170.215.120/hls/Sky-Sports-Arena-MR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",REAL MADRID
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Dsports_HD
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Levante Tv
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1,AR: BEINSPORT 1 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3475.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 2 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3476.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 3 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3477.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 4 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3478.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 5 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3479.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 6 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3480.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 7 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3481.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 8 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3482.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 9 HD
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3483.m3u8
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 10 HD@e
+http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3484.m3u8
