@@ -1,103 +1,165 @@
 #EXTM3U
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 2 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3476.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 3 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3477.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 4 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3478.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 5 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3479.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 6 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3480.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 7 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3481.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 8 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3482.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 9 HD
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3483.m3u8
-#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 10 HD@e
-http://wweraw.ddns.net:8080/live/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3484.m3u8
-#EXTINF:-1,beIN SPORTS FHD
-http://showflix.org:5890/live/1234567/12345/3.m3u8
-#EXTINF:-1,beIN SPORTS News FHD
-http://showflix.org:5890/live/1234567/12345/4.m3u8
-#EXTINF:-1,beIN SPORTS 1HD
-http://showflix.org:5890/live/1234567/12345/16.m3u8
-#EXTINF:-1,beIN SPORTS 2HD
-http://showflix.org:5890/live/1234567/12345/17.m3u8
-#EXTINF:-1,beIN SPORTS 3HD
-http://showflix.org:5890/live/1234567/12345/18.m3u8
-#EXTINF:-1,beIN SPORTS 4HD
-http://showflix.org:5890/live/1234567/12345/19.m3u8
-#EXTINF:-1,beIN SPORTS 5HD
-http://showflix.org:5890/live/1234567/12345/20.m3u8
-#EXTINF:-1,beIN SPORTS 6HD
-http://showflix.org:5890/live/1234567/12345/21.m3u8
-#EXTINF:-1,beIN SPORTS 7HD
-http://showflix.org:5890/live/1234567/12345/22.m3u8
-#EXTINF:-1,beIN SPORTS 8HD
-http://showflix.org:5890/live/1234567/12345/23.m3u8
-#EXTINF:-1,beIN SPORTS 9HD
-http://showflix.org:5890/live/1234567/12345/24.m3u8
-#EXTINF:-1,beIN SPORTS 10HD
-http://showflix.org:5890/live/1234567/12345/25.m3u8
-#EXTINF:-1,beIN SPORTS 11HD
-http://showflix.org:5890/live/1234567/12345/26.m3u8
-#EXTINF:-1,beIN SPORTS 12HD
-http://showflix.org:5890/live/1234567/12345/27.m3u8
-#EXTINF:-1,beIN SPORTS 13HD
-http://showflix.org:5890/live/1234567/12345/28.m3u8
-#EXTINF:-1,beIN SPORTS 14HD
-http://showflix.org:5890/live/1234567/12345/29.m3u8
-#EXTINF:-1,beIN SPORTS 15HD
-http://showflix.org:5890/live/1234567/12345/30.m3u8
-#EXTINF:-1,beIN SPORTS 16HD
-http://showflix.org:5890/live/1234567/12345/31.m3u8
-#EXTINF:-1,beIN SPORTS 17HD
-http://showflix.org:5890/live/1234567/12345/32.m3u8
-#EXTINF:-1,beIN SPORTS NBA
-http://showflix.org:5890/live/1234567/12345/33.m3u8
-#EXTINF:-1,-- beIN SPORTS FHD --
-http://showflix.org:5890/live/1234567/12345/2.m3u8
-#EXTINF:-1,beIN SPORTS 1 FHD
-http://showflix.org:5890/live/1234567/12345/5.m3u8
-#EXTINF:-1,beIN SPORTS 2 FHD
-http://showflix.org:5890/live/1234567/12345/6.m3u8
-#EXTINF:-1,beIN SPORTS 3 FHD
-http://showflix.org:5890/live/1234567/12345/7.m3u8
-#EXTINF:-1,beIN SPORTS 4 FHD
-http://showflix.org:5890/live/1234567/12345/8.m3u8
-#EXTINF:-1,beIN SPORTS 5 FHD
-http://showflix.org:5890/live/1234567/12345/9.m3u8
-#EXTINF:-1,beIN SPORTS 6 FHD
-http://showflix.org:5890/live/1234567/12345/10.m3u8
-#EXTINF:-1,beIN SPORTS 7 FHD
-http://showflix.org:5890/live/1234567/12345/11.m3u8
-#EXTINF:-1,beIN SPORTS 8 FHD
-http://showflix.org:5890/live/1234567/12345/12.m3u8
-#EXTINF:-1,beIN SPORTS 9 FHD
-http://showflix.org:5890/live/1234567/12345/13.m3u8
-#EXTINF:-1,beIN SPORTS 10 FHD
-http://showflix.org:5890/live/1234567/12345/14.m3u8
-#EXTINF:-1,-- beIN SPORTS SD --
-http://showflix.org:5890/live/1234567/12345/34.m3u8
-#EXTINF:-1,beIN SPORTS 1 SD
-http://showflix.org:5890/live/1234567/12345/35.m3u8
-#EXTINF:-1,beIN SPORTS 2 SD
-http://showflix.org:5890/live/1234567/12345/36.m3u8
-#EXTINF:-1,beIN SPORTS 3 SD
-http://showflix.org:5890/live/1234567/12345/37.m3u8
-#EXTINF:-1,beIN SPORTS 4 SD
-http://showflix.org:5890/live/1234567/12345/38.m3u8
-#EXTINF:-1,beIN SPORTS 5 SD
-http://showflix.org:5890/live/1234567/12345/39.m3u8
-#EXTINF:-1,beIN SPORTS 6 SD
-http://showflix.org:5890/live/1234567/12345/40.m3u8
-#EXTINF:-1,beIN SPORTS 7 SD
-http://showflix.org:5890/live/1234567/12345/41.m3u8
-#EXTINF:-1,beIN SPORTS 8 SD
-http://showflix.org:5890/live/1234567/12345/42.m3u8
-#EXTINF:-1,beIN SPORTS 9 SD
-http://showflix.org:5890/live/1234567/12345/43.m3u8
-#EXTINF:-1,beIN SPORTS 10 SD
-http://showflix.org:5890/live/1234567/12345/44.m3u8
+#EXTINF:-1,beIN_Sports_1_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7962.m3u8
+#EXTINF:-1,beIN_Sports_2_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7963.m3u8
+#EXTINF:-1,beIN_Sports_3_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7964.m3u8
+#EXTINF:-1,beIN_Sports_4_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7965.m3u8
+#EXTINF:-1,beIN_Sports_5_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7966.m3u8
+#EXTINF:-1,beIN_Sports_6_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7967.m3u8
+#EXTINF:-1,beIN_Sports_7_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7968.m3u8
+#EXTINF:-1,beIN_Sports_8_HD-
+http://20062016.com:8000/live/sa123456/sa123456/7969.m3u8
+#EXTINF:-1,beIN_Sports_9_HD-
+http://20062016.com:8000/live/sa123456/sa123456/21003.m3u8
+#EXTINF:-1,beIN_Sports_10_HD-
+http://20062016.com:8000/live/sa123456/sa123456/21004.m3u8
+#EXTINF:-1,-===beIN_Sports_UHD===-
+http://20062016.com:8000/live/sa123456/sa123456/18391.m3u8
+#EXTINF:-1,beIN_Sports_1_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17239.m3u8
+#EXTINF:-1,beIN_Sports_2_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17240.m3u8
+#EXTINF:-1,beIN_Sports_3_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17241.m3u8
+#EXTINF:-1,beIN_Sports_4_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17242.m3u8
+#EXTINF:-1,beIN_Sports_5_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17243.m3u8
+#EXTINF:-1,beIN_Sports_6_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17244.m3u8
+#EXTINF:-1,beIN_Sports_7_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17237.m3u8
+#EXTINF:-1,beIN_Sports_8_UHD
+http://20062016.com:8000/live/sa123456/sa123456/17238.m3u8
+#EXTINF:-1,beIN_Sports_9_UHD
+http://20062016.com:8000/live/sa123456/sa123456/19850.m3u8
+#EXTINF:-1,beIN_Sports_10_UHD
+http://20062016.com:8000/live/sa123456/sa123456/19851.m3u8
+#EXTINF:-1,-===beIN_SPORTS_FHD===-
+http://20062016.com:8000/live/sa123456/sa123456/15488.m3u8
+#EXTINF:-1,beIN_Sports_1_FHD
+http://20062016.com:8000/live/sa123456/sa123456/18389.m3u8
+#EXTINF:-1,beIN_Sports_2_FHD
+http://20062016.com:8000/live/sa123456/sa123456/3408.m3u8
+#EXTINF:-1,beIN_Sports_3_FHD
+http://20062016.com:8000/live/sa123456/sa123456/3407.m3u8
+#EXTINF:-1,beIN_Sports_4_FHD
+http://20062016.com:8000/live/sa123456/sa123456/3420.m3u8
+#EXTINF:-1,beIN_Sports_5_FHD
+http://20062016.com:8000/live/sa123456/sa123456/13016.m3u8
+#EXTINF:-1,beIN_Sports_6_FHD
+http://20062016.com:8000/live/sa123456/sa123456/13015.m3u8
+#EXTINF:-1,beIN_Sports_7_FHD
+http://20062016.com:8000/live/sa123456/sa123456/5479.m3u8
+#EXTINF:-1,beIN_Sports_8_FHD
+http://20062016.com:8000/live/sa123456/sa123456/5477.m3u8
+#EXTINF:-1,beIN_Sports_9_FHD
+http://20062016.com:8000/live/sa123456/sa123456/5476.m3u8
+#EXTINF:-1,beIN_Sports_10_FHD
+http://20062016.com:8000/live/sa123456/sa123456/5475.m3u8
+#EXTINF:-1,beIN_Sports_11_FHD
+http://20062016.com:8000/live/sa123456/sa123456/19841.m3u8
+#EXTINF:-1,beIN_Sports_12_FHD
+http://20062016.com:8000/live/sa123456/sa123456/19842.m3u8
+#EXTINF:-1,beIN_Sports_13_FHD
+http://20062016.com:8000/live/sa123456/sa123456/19843.m3u8
+#EXTINF:-1,beIN_Sports_14_FHD
+http://20062016.com:8000/live/sa123456/sa123456/19844.m3u8
+#EXTINF:-1,beIN_Sports_15_FHD
+http://20062016.com:8000/live/sa123456/sa123456/19845.m3u8
+#EXTINF:-1,beIN_Sports_16_FHD
+http://20062016.com:8000/live/sa123456/sa123456/19846.m3u8
+#EXTINF:-1,beIN_Sports
+http://20062016.com:8000/live/sa123456/sa123456/20435.m3u8
+#EXTINF:-1,beIN_Sports_GLOBAL_full_HD
+http://20062016.com:8000/live/sa123456/sa123456/19848.m3u8
+#EXTINF:-1,beIN_Sports_NBA_full_HD
+http://20062016.com:8000/live/sa123456/sa123456/19847.m3u8
+#EXTINF:-1,beIN_Sports_NEWS_full_HD
+http://20062016.com:8000/live/sa123456/sa123456/19849.m3u8
+#EXTINF:-1,-===beIN_Sports_4K===-
+http://20062016.com:8000/live/sa123456/sa123456/18390.m3u8
+#EXTINF:-1,beIN_Sports_1_4K
+http://20062016.com:8000/live/sa123456/sa123456/5474.m3u8
+#EXTINF:-1,beIN_Sports_2_4K
+http://20062016.com:8000/live/sa123456/sa123456/5473.m3u8
+#EXTINF:-1,beIN_Sports_3_4K
+http://20062016.com:8000/live/sa123456/sa123456/5472.m3u8
+#EXTINF:-1,beIN_Sports_4_4K
+http://20062016.com:8000/live/sa123456/sa123456/5471.m3u8
+#EXTINF:-1,beIN_Sports_5_4K
+http://20062016.com:8000/live/sa123456/sa123456/143.m3u8
+#EXTINF:-1,beIN_Sports_6_4K
+http://20062016.com:8000/live/sa123456/sa123456/142.m3u8
+#EXTINF:-1,beIN_Sports_7_4K
+http://20062016.com:8000/live/sa123456/sa123456/141.m3u8
+#EXTINF:-1,beIN_Sports_8_4K
+http://20062016.com:8000/live/sa123456/sa123456/13017.m3u8
+#EXTINF:-1,beIN_Sports_9_4K
+http://20062016.com:8000/live/sa123456/sa123456/19852.m3u8
+#EXTINF:-1,beIN_Sports_10_4K
+http://20062016.com:8000/live/sa123456/sa123456/19853.m3u8
+#EXTINF:-1,-===beIN_SPORTS_HD-2===-
+http://20062016.com:8000/live/sa123456/sa123456/560.m3u8
+#EXTINF:-1,beIN_Sports_1_HD
+http://20062016.com:8000/live/sa123456/sa123456/17163.m3u8
+#EXTINF:-1,beIN_Sports_2_HD
+http://20062016.com:8000/live/sa123456/sa123456/17217.m3u8
+#EXTINF:-1,beIN_Sports_3_HD
+http://20062016.com:8000/live/sa123456/sa123456/17218.m3u8
+#EXTINF:-1,beIN_Sports_4_HD
+http://20062016.com:8000/live/sa123456/sa123456/17219.m3u8
+#EXTINF:-1,beIN_Sports_5_HD
+http://20062016.com:8000/live/sa123456/sa123456/17220.m3u8
+#EXTINF:-1,beIN_Sports_6_HD
+http://20062016.com:8000/live/sa123456/sa123456/17221.m3u8
+#EXTINF:-1,beIN_Sports_7_HD
+http://20062016.com:8000/live/sa123456/sa123456/17222.m3u8
+#EXTINF:-1,beIN_Sports_8_HD
+http://20062016.com:8000/live/sa123456/sa123456/17223.m3u8
+#EXTINF:-1,BEIN_SPORTS_9_HD
+http://20062016.com:8000/live/sa123456/sa123456/21264.m3u8
+#EXTINF:-1,BEIN_SPORTS_10_HD
+http://20062016.com:8000/live/sa123456/sa123456/21265.m3u8
+#EXTINF:-1,-===beIN_SPORTS_SD===-
+http://20062016.com:8000/live/sa123456/sa123456/15487.m3u8
+#EXTINF:-1,beIN_Sports_1_SD
+http://20062016.com:8000/live/sa123456/sa123456/139.m3u8
+#EXTINF:-1,beIN_Sports_2_SD
+http://20062016.com:8000/live/sa123456/sa123456/138.m3u8
+#EXTINF:-1,beIN_Sports_3_SD
+http://20062016.com:8000/live/sa123456/sa123456/137.m3u8
+#EXTINF:-1,beIN_Sports_4_SD
+http://20062016.com:8000/live/sa123456/sa123456/136.m3u8
+#EXTINF:-1,beIN_Sports_5_SD
+http://20062016.com:8000/live/sa123456/sa123456/135.m3u8
+#EXTINF:-1,beIN_Sports_6_SD
+http://20062016.com:8000/live/sa123456/sa123456/134.m3u8
+#EXTINF:-1,beIN_Sports_7_SD
+http://20062016.com:8000/live/sa123456/sa123456/133.m3u8
+#EXTINF:-1,beIN_Sports_8_SD
+http://20062016.com:8000/live/sa123456/sa123456/144.m3u8
+#EXTINF:-1,beIN_Sports_HD
+http://20062016.com:8000/live/sa123456/sa123456/16067.m3u8
+#EXTINF:-1,beIN_Sports_News_HD
+http://20062016.com:8000/live/sa123456/sa123456/16068.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-action
+http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-S-main-even
+http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spor-cricket
+http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-Pre-L
+http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spo-football-N
+http://95.170.215.120/hls/Sky-Spo-football-N.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Golf-MR
+http://95.170.215.120/hls/Sky-Sports-Golf-MR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Arena-MR
+http://95.170.215.120/hls/Sky-Sports-Arena-MR.m3u8
