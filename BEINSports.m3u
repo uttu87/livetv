@@ -1,165 +1,61 @@
 #EXTM3U
-#EXTINF:-1,beIN_Sports_1_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7962.m3u8
-#EXTINF:-1,beIN_Sports_2_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7963.m3u8
-#EXTINF:-1,beIN_Sports_3_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7964.m3u8
-#EXTINF:-1,beIN_Sports_4_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7965.m3u8
-#EXTINF:-1,beIN_Sports_5_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7966.m3u8
-#EXTINF:-1,beIN_Sports_6_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7967.m3u8
-#EXTINF:-1,beIN_Sports_7_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7968.m3u8
-#EXTINF:-1,beIN_Sports_8_HD-
-http://20062016.com:8000/live/sa123456/sa123456/7969.m3u8
-#EXTINF:-1,beIN_Sports_9_HD-
-http://20062016.com:8000/live/sa123456/sa123456/21003.m3u8
-#EXTINF:-1,beIN_Sports_10_HD-
-http://20062016.com:8000/live/sa123456/sa123456/21004.m3u8
-#EXTINF:-1,-===beIN_Sports_UHD===-
-http://20062016.com:8000/live/sa123456/sa123456/18391.m3u8
-#EXTINF:-1,beIN_Sports_1_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17239.m3u8
-#EXTINF:-1,beIN_Sports_2_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17240.m3u8
-#EXTINF:-1,beIN_Sports_3_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17241.m3u8
-#EXTINF:-1,beIN_Sports_4_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17242.m3u8
-#EXTINF:-1,beIN_Sports_5_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17243.m3u8
-#EXTINF:-1,beIN_Sports_6_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17244.m3u8
-#EXTINF:-1,beIN_Sports_7_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17237.m3u8
-#EXTINF:-1,beIN_Sports_8_UHD
-http://20062016.com:8000/live/sa123456/sa123456/17238.m3u8
-#EXTINF:-1,beIN_Sports_9_UHD
-http://20062016.com:8000/live/sa123456/sa123456/19850.m3u8
-#EXTINF:-1,beIN_Sports_10_UHD
-http://20062016.com:8000/live/sa123456/sa123456/19851.m3u8
-#EXTINF:-1,-===beIN_SPORTS_FHD===-
-http://20062016.com:8000/live/sa123456/sa123456/15488.m3u8
-#EXTINF:-1,beIN_Sports_1_FHD
-http://20062016.com:8000/live/sa123456/sa123456/18389.m3u8
-#EXTINF:-1,beIN_Sports_2_FHD
-http://20062016.com:8000/live/sa123456/sa123456/3408.m3u8
-#EXTINF:-1,beIN_Sports_3_FHD
-http://20062016.com:8000/live/sa123456/sa123456/3407.m3u8
-#EXTINF:-1,beIN_Sports_4_FHD
-http://20062016.com:8000/live/sa123456/sa123456/3420.m3u8
-#EXTINF:-1,beIN_Sports_5_FHD
-http://20062016.com:8000/live/sa123456/sa123456/13016.m3u8
-#EXTINF:-1,beIN_Sports_6_FHD
-http://20062016.com:8000/live/sa123456/sa123456/13015.m3u8
-#EXTINF:-1,beIN_Sports_7_FHD
-http://20062016.com:8000/live/sa123456/sa123456/5479.m3u8
-#EXTINF:-1,beIN_Sports_8_FHD
-http://20062016.com:8000/live/sa123456/sa123456/5477.m3u8
-#EXTINF:-1,beIN_Sports_9_FHD
-http://20062016.com:8000/live/sa123456/sa123456/5476.m3u8
-#EXTINF:-1,beIN_Sports_10_FHD
-http://20062016.com:8000/live/sa123456/sa123456/5475.m3u8
-#EXTINF:-1,beIN_Sports_11_FHD
-http://20062016.com:8000/live/sa123456/sa123456/19841.m3u8
-#EXTINF:-1,beIN_Sports_12_FHD
-http://20062016.com:8000/live/sa123456/sa123456/19842.m3u8
-#EXTINF:-1,beIN_Sports_13_FHD
-http://20062016.com:8000/live/sa123456/sa123456/19843.m3u8
-#EXTINF:-1,beIN_Sports_14_FHD
-http://20062016.com:8000/live/sa123456/sa123456/19844.m3u8
-#EXTINF:-1,beIN_Sports_15_FHD
-http://20062016.com:8000/live/sa123456/sa123456/19845.m3u8
-#EXTINF:-1,beIN_Sports_16_FHD
-http://20062016.com:8000/live/sa123456/sa123456/19846.m3u8
-#EXTINF:-1,beIN_Sports
-http://20062016.com:8000/live/sa123456/sa123456/20435.m3u8
-#EXTINF:-1,beIN_Sports_GLOBAL_full_HD
-http://20062016.com:8000/live/sa123456/sa123456/19848.m3u8
-#EXTINF:-1,beIN_Sports_NBA_full_HD
-http://20062016.com:8000/live/sa123456/sa123456/19847.m3u8
-#EXTINF:-1,beIN_Sports_NEWS_full_HD
-http://20062016.com:8000/live/sa123456/sa123456/19849.m3u8
-#EXTINF:-1,-===beIN_Sports_4K===-
-http://20062016.com:8000/live/sa123456/sa123456/18390.m3u8
-#EXTINF:-1,beIN_Sports_1_4K
-http://20062016.com:8000/live/sa123456/sa123456/5474.m3u8
-#EXTINF:-1,beIN_Sports_2_4K
-http://20062016.com:8000/live/sa123456/sa123456/5473.m3u8
-#EXTINF:-1,beIN_Sports_3_4K
-http://20062016.com:8000/live/sa123456/sa123456/5472.m3u8
-#EXTINF:-1,beIN_Sports_4_4K
-http://20062016.com:8000/live/sa123456/sa123456/5471.m3u8
-#EXTINF:-1,beIN_Sports_5_4K
-http://20062016.com:8000/live/sa123456/sa123456/143.m3u8
-#EXTINF:-1,beIN_Sports_6_4K
-http://20062016.com:8000/live/sa123456/sa123456/142.m3u8
-#EXTINF:-1,beIN_Sports_7_4K
-http://20062016.com:8000/live/sa123456/sa123456/141.m3u8
-#EXTINF:-1,beIN_Sports_8_4K
-http://20062016.com:8000/live/sa123456/sa123456/13017.m3u8
-#EXTINF:-1,beIN_Sports_9_4K
-http://20062016.com:8000/live/sa123456/sa123456/19852.m3u8
-#EXTINF:-1,beIN_Sports_10_4K
-http://20062016.com:8000/live/sa123456/sa123456/19853.m3u8
-#EXTINF:-1,-===beIN_SPORTS_HD-2===-
-http://20062016.com:8000/live/sa123456/sa123456/560.m3u8
-#EXTINF:-1,beIN_Sports_1_HD
-http://20062016.com:8000/live/sa123456/sa123456/17163.m3u8
-#EXTINF:-1,beIN_Sports_2_HD
-http://20062016.com:8000/live/sa123456/sa123456/17217.m3u8
-#EXTINF:-1,beIN_Sports_3_HD
-http://20062016.com:8000/live/sa123456/sa123456/17218.m3u8
-#EXTINF:-1,beIN_Sports_4_HD
-http://20062016.com:8000/live/sa123456/sa123456/17219.m3u8
-#EXTINF:-1,beIN_Sports_5_HD
-http://20062016.com:8000/live/sa123456/sa123456/17220.m3u8
-#EXTINF:-1,beIN_Sports_6_HD
-http://20062016.com:8000/live/sa123456/sa123456/17221.m3u8
-#EXTINF:-1,beIN_Sports_7_HD
-http://20062016.com:8000/live/sa123456/sa123456/17222.m3u8
-#EXTINF:-1,beIN_Sports_8_HD
-http://20062016.com:8000/live/sa123456/sa123456/17223.m3u8
-#EXTINF:-1,BEIN_SPORTS_9_HD
-http://20062016.com:8000/live/sa123456/sa123456/21264.m3u8
-#EXTINF:-1,BEIN_SPORTS_10_HD
-http://20062016.com:8000/live/sa123456/sa123456/21265.m3u8
-#EXTINF:-1,-===beIN_SPORTS_SD===-
-http://20062016.com:8000/live/sa123456/sa123456/15487.m3u8
-#EXTINF:-1,beIN_Sports_1_SD
-http://20062016.com:8000/live/sa123456/sa123456/139.m3u8
-#EXTINF:-1,beIN_Sports_2_SD
-http://20062016.com:8000/live/sa123456/sa123456/138.m3u8
-#EXTINF:-1,beIN_Sports_3_SD
-http://20062016.com:8000/live/sa123456/sa123456/137.m3u8
-#EXTINF:-1,beIN_Sports_4_SD
-http://20062016.com:8000/live/sa123456/sa123456/136.m3u8
-#EXTINF:-1,beIN_Sports_5_SD
-http://20062016.com:8000/live/sa123456/sa123456/135.m3u8
-#EXTINF:-1,beIN_Sports_6_SD
-http://20062016.com:8000/live/sa123456/sa123456/134.m3u8
-#EXTINF:-1,beIN_Sports_7_SD
-http://20062016.com:8000/live/sa123456/sa123456/133.m3u8
-#EXTINF:-1,beIN_Sports_8_SD
-http://20062016.com:8000/live/sa123456/sa123456/144.m3u8
-#EXTINF:-1,beIN_Sports_HD
-http://20062016.com:8000/live/sa123456/sa123456/16067.m3u8
-#EXTINF:-1,beIN_Sports_News_HD
-http://20062016.com:8000/live/sa123456/sa123456/16068.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-action
-http://95.170.215.120/hls/m3u8/Sky-Sport-action.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-S-main-even
-http://95.170.215.120/hls/m3u8/Sky-S-main-even.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spor-cricket
-http://95.170.215.120/hls/m3u8/Sky-Spor-cricket.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sport-Pre-L
-http://95.170.215.120/hls/m3u8/Sky-Sport-Pre-L.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Spo-football-N
-http://95.170.215.120/hls/Sky-Spo-football-N.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Golf-MR
-http://95.170.215.120/hls/Sky-Sports-Golf-MR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPORT",Sky-Sports-Arena-MR
-http://95.170.215.120/hls/Sky-Sports-Arena-MR.m3u8
+#EXTINF:0,Bein Sport 1 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/3.ts
+#EXTINF:0,Bein Sport 2 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/4.ts
+#EXTINF:0,Bein Sport 3 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/5.ts
+#EXTINF:0,Bein Sport 4 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/6.ts
+#EXTINF:0,Bein Sport 5 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/7.ts
+#EXTINF:0,Bein Sport 6 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/8.ts
+#EXTINF:0,Bein Sport 7 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/9.ts
+#EXTINF:0,Bein Sport 8 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/10.ts
+#EXTINF:0,Bein Sport 9 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/11.ts
+#EXTINF:0,Bein Sport 10 HD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/12.ts
+#EXTINF:0,Bein Sport 1 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/13.ts
+#EXTINF:0,Bein Sport 2 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/14.ts
+#EXTINF:0,Bein Sport 3 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/15.ts
+#EXTINF:0,Bein Sport 4 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/16.ts
+#EXTINF:0,Bein Sport 5 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/17.ts
+#EXTINF:0,Bein Sport 6 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/18.ts
+#EXTINF:0,Bein Sport 7 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/19.ts
+#EXTINF:0,Bein Sport 8 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/20.ts
+#EXTINF:0,Bein Sport 9 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/21.ts
+#EXTINF:0,Bein Sport 10 SD
+#EXTVLCOPT:http-user-agent=raeed
+http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/22.ts
