@@ -1,41 +1,158 @@
-#EXTM3U
-#EXTINF:0,Bein Sport 1 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/3.ts
-#EXTINF:0,Bein Sport 2 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/4.ts
-#EXTINF:0,Bein Sport 3 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/5.ts
-#EXTINF:0,Bein Sport 4 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/6.ts
-#EXTINF:0,Bein Sport 5 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/7.ts
-#EXTINF:0,Bein Sport 6 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/8.ts
-#EXTINF:0,Bein Sport 7 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/9.ts
-#EXTINF:0,Bein Sport 8 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/10.ts
-#EXTINF:0,Bein Sport 9 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/11.ts
-#EXTINF:0,Bein Sport 10 HD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/12.ts
-#EXTINF:0,Bein Sport 1 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/13.ts
-#EXTINF:0,Bein Sport 2 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/14.ts
-#EXTINF:0,Bein Sport 3 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/15.ts
-#EXTINF:0,Bein Sport 4 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/16.ts
-#EXTINF:0,Bein Sport 5 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/17.ts
-#EXTINF:0,Bein Sport 6 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/18.ts
-#EXTINF:0,Bein Sport 7 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/19.ts
-#EXTINF:0,Bein Sport 8 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/20.ts
-#EXTINF:0,Bein Sport 9 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/21.ts
-#EXTINF:0,Bein Sport 10 SD
-http://144.76.102.19:8000/live/RaeedPcTvRestreaM2020/RaeedPcTvRestreaM2020/22.ts
+#EXTINF:-1,BEIN SPORTS 3 h.265
+http://dragon2020.com:8080/live/osama/osama/92756.m3u8
+#EXTINF:-1,BEIN SPORTS 2 h.265
+http://dragon2020.com:8080/live/osama/osama/92757.m3u8
+#EXTINF:-1,BEIN SPORTS 1 h.265
+http://dragon2020.com:8080/live/osama/osama/92758.m3u8
+#EXTINF:-1,BEIN SPORTS 5 h.265 (1M)
+http://dragon2020.com:8080/live/osama/osama/92749.m3u8
+#EXTINF:-1,BEIN SPORTS 4 h.265 (1M)
+http://dragon2020.com:8080/live/osama/osama/92750.m3u8
+#EXTINF:-1,BEIN SPORTS 3 h.265 (1M)
+http://dragon2020.com:8080/live/osama/osama/92751.m3u8
+#EXTINF:-1,BEIN SPORTS 2 h.265 (1M)
+http://dragon2020.com:8080/live/osama/osama/92752.m3u8
+#EXTINF:-1,BEIN SPORTS 1 h.265 (1M)
+http://dragon2020.com:8080/live/osama/osama/92753.m3u8
+#EXTINF:-1,BEIN SPORTS 5 h.265
+http://dragon2020.com:8080/live/osama/osama/92754.m3u8
+#EXTINF:-1,BEIN SPORTS 4 h.265
+http://dragon2020.com:8080/live/osama/osama/92755.m3u8
+#EXTINF:-1,SP2: beIN Sport 01 [4k]
+http://dragon2020.com:8080/live/osama/osama/51826.m3u8
+#EXTINF:-1,SP2: beIN Sport 02 [4k]
+http://dragon2020.com:8080/live/osama/osama/51825.m3u8
+#EXTINF:-1,SP2: beIN Sport 03 [4k]
+http://dragon2020.com:8080/live/osama/osama/51824.m3u8
+#EXTINF:-1,SP2: beIN Sport 04 [4k]
+http://dragon2020.com:8080/live/osama/osama/51823.m3u8
+#EXTINF:-1,SP2: beIN Sport 05 [4k]
+http://dragon2020.com:8080/live/osama/osama/51822.m3u8
+#EXTINF:-1,SP2: beIN Sport 06 [4k]
+http://dragon2020.com:8080/live/osama/osama/51821.m3u8
+#EXTINF:-1,SP2: beIN Sport 07 [4k]
+http://dragon2020.com:8080/live/osama/osama/51820.m3u8
+#EXTINF:-1,SP2: beIN Sport 08 [4k]
+http://dragon2020.com:8080/live/osama/osama/51819.m3u8
+#EXTINF:-1,SP2: beIN Sport 09 [4k]
+http://dragon2020.com:8080/live/osama/osama/51818.m3u8
+#EXTINF:-1,SP2: beIN Sport 10 [4k]
+http://dragon2020.com:8080/live/osama/osama/51817.m3u8
+#EXTINF:-1,SP2: beIN Sport 11 [4k]
+http://dragon2020.com:8080/live/osama/osama/51816.m3u8
+#EXTINF:-1,SP2: beIN Sport 01 1080P
+http://dragon2020.com:8080/live/osama/osama/61064.m3u8
+#EXTINF:-1,SP2: beIN Sport 02 1080P
+http://dragon2020.com:8080/live/osama/osama/61063.m3u8
+#EXTINF:-1,SP2: beIN Sport 03 1080p
+http://dragon2020.com:8080/live/osama/osama/61062.m3u8
+#EXTINF:-1,SP2: beIN Sport 04 1080p
+http://dragon2020.com:8080/live/osama/osama/61061.m3u8
+#EXTINF:-1,SP2: beIN Sport 05 1080p
+http://dragon2020.com:8080/live/osama/osama/61060.m3u8
+#EXTINF:-1,SP2: beIN Sport 06 1080p
+http://dragon2020.com:8080/live/osama/osama/61059.m3u8
+#EXTINF:-1,SP2: beIN Sport 07 1080p
+http://dragon2020.com:8080/live/osama/osama/61058.m3u8
+#EXTINF:-1,SP2: beIN Sport 08 1080p
+http://dragon2020.com:8080/live/osama/osama/61057.m3u8
+#EXTINF:-1,SP2: beIN Sport 09 1080p
+http://dragon2020.com:8080/live/osama/osama/93673.m3u8
+#EXTINF:-1,SP2: beIN Sport 10 1080p
+http://dragon2020.com:8080/live/osama/osama/93674.m3u8
+#EXTINF:-1,SP2: beIN Sport 11 1080p
+http://dragon2020.com:8080/live/osama/osama/93675.m3u8
+#EXTINF:-1,SP2: beIN Sport 12 1080p
+http://dragon2020.com:8080/live/osama/osama/93676.m3u8
+#EXTINF:-1,SP2: beIN Sport 13 1080p
+http://dragon2020.com:8080/live/osama/osama/93677.m3u8
+#EXTINF:-1,SP2: beIN Sport NBA HD
+http://dragon2020.com:8080/live/osama/osama/93678.m3u8
+#EXTINF:-1,SP2: beIN Sports HD
+http://dragon2020.com:8080/live/osama/osama/93680.m3u8
+#EXTINF:-1,SP2: beIN Sport News
+http://dragon2020.com:8080/live/osama/osama/93679.m3u8
+#EXTINF:-1,SP3: beIN Sport1 720p
+http://dragon2020.com:8080/live/osama/osama/51803.m3u8
+#EXTINF:-1,SP3: beIN Sport 02 720p
+http://dragon2020.com:8080/live/osama/osama/51802.m3u8
+#EXTINF:-1,SP3: beIN Sport 03 720p
+http://dragon2020.com:8080/live/osama/osama/51801.m3u8
+#EXTINF:-1,SP3: beIN Sport 04 720p
+http://dragon2020.com:8080/live/osama/osama/51800.m3u8
+#EXTINF:-1,SP3: beIN Sport 05 720p
+http://dragon2020.com:8080/live/osama/osama/51799.m3u8
+#EXTINF:-1,SP3: beIN Sport 06 720p
+http://dragon2020.com:8080/live/osama/osama/51798.m3u8
+#EXTINF:-1,SP3: beIN Sport 07 720p
+http://dragon2020.com:8080/live/osama/osama/51797.m3u8
+#EXTINF:-1,SP3: beIN Sport 08 720p
+http://dragon2020.com:8080/live/osama/osama/51796.m3u8
+#EXTINF:-1,SP3: beIN Sport 09 720p
+http://dragon2020.com:8080/live/osama/osama/51795.m3u8
+#EXTINF:-1,SP3: beIN Sport 10 720p
+http://dragon2020.com:8080/live/osama/osama/51794.m3u8
+#EXTINF:-1,SP3: beIN Sport 11 720p
+http://dragon2020.com:8080/live/osama/osama/51793.m3u8
+#EXTINF:-1,SP3: beIN Sport 12 720p
+http://dragon2020.com:8080/live/osama/osama/51792.m3u8
+#EXTINF:-1,SP2: beIN Sport 01 [SD]
+http://dragon2020.com:8080/live/osama/osama/51791.m3u8
+#EXTINF:-1,SP2: beIN Sport 02 [SD]
+http://dragon2020.com:8080/live/osama/osama/51790.m3u8
+#EXTINF:-1,SP2: beIN Sport 03 [SD]
+http://dragon2020.com:8080/live/osama/osama/51789.m3u8
+#EXTINF:-1,SP2: beIN Sport 04 [SD]
+http://dragon2020.com:8080/live/osama/osama/51788.m3u8
+#EXTINF:-1,SP2: beIN Sport 05 [SD]
+http://dragon2020.com:8080/live/osama/osama/51787.m3u8
+#EXTINF:-1,SP2: beIN Sport 06 [SD]
+http://dragon2020.com:8080/live/osama/osama/51786.m3u8
+#EXTINF:-1,SP2: beIN Sport 07 [SD]
+http://dragon2020.com:8080/live/osama/osama/51785.m3u8
+#EXTINF:-1,SP2: beIN Sport 08 [SD]
+http://dragon2020.com:8080/live/osama/osama/51784.m3u8
+#EXTINF:-1,SP2: beIN Sport 09 [SD]
+http://dragon2020.com:8080/live/osama/osama/92762.m3u8
+#EXTINF:-1,SP2: beIN Sport 10 [SD]
+http://dragon2020.com:8080/live/osama/osama/92763.m3u8
+#EXTINF:-1,SP3: beIN Sport 01 Low 512
+http://dragon2020.com:8080/live/osama/osama/51836.m3u8
+#EXTINF:-1,SP3: beIN Sport 02 Low 512
+http://dragon2020.com:8080/live/osama/osama/51835.m3u8
+#EXTINF:-1,SP3: beIN Sport 03 Low 512
+http://dragon2020.com:8080/live/osama/osama/51834.m3u8
+#EXTINF:-1,SP3: beIN Sport 04 Low 512
+http://dragon2020.com:8080/live/osama/osama/51833.m3u8
+#EXTINF:-1,SP3: beIN Sport 05 Low 512
+http://dragon2020.com:8080/live/osama/osama/51832.m3u8
+#EXTINF:-1,SP3: beIN Sport 06 Low 512
+http://dragon2020.com:8080/live/osama/osama/51831.m3u8
+#EXTINF:-1,SP3: beIN Sport 07 Low 512
+http://dragon2020.com:8080/live/osama/osama/51830.m3u8
+#EXTINF:-1,SP3: beIN Sport 08 Low 512
+http://dragon2020.com:8080/live/osama/osama/51829.m3u8
+#EXTINF:-1,SP3: beIN Sport 09 Low 512
+http://dragon2020.com:8080/live/osama/osama/51828.m3u8
+#EXTINF:-1,SP3: beIN Sport 10 Low 512
+http://dragon2020.com:8080/live/osama/osama/51827.m3u8
+#EXTINF:-1,SP3: beIN Sport 01 360p
+http://dragon2020.com:8080/live/osama/osama/58868.m3u8
+#EXTINF:-1,SP3: beIN Sport 02 360p
+http://dragon2020.com:8080/live/osama/osama/58867.m3u8
+#EXTINF:-1,SP3: beIN Sport 03 360p
+http://dragon2020.com:8080/live/osama/osama/58866.m3u8
+#EXTINF:-1,SP3: beIN Sport 04 360p
+http://dragon2020.com:8080/live/osama/osama/58865.m3u8
+#EXTINF:-1,SP3: beIN Sport 05 360p
+http://dragon2020.com:8080/live/osama/osama/58864.m3u8
+#EXTINF:-1,SP3: beIN Sport 06 360p
+http://dragon2020.com:8080/live/osama/osama/58863.m3u8
+#EXTINF:-1,SP3: beIN Sport 07 360p
+http://dragon2020.com:8080/live/osama/osama/58862.m3u8
+#EXTINF:-1,SP3: beIN Sport 08 360p
+http://dragon2020.com:8080/live/osama/osama/58861.m3u8
+#EXTINF:-1,SP3: beIN Sport 09 360p
+http://dragon2020.com:8080/live/osama/osama/58860.m3u8
+#EXTINF:-1,SP3: beIN Sport 10 360p
+http://dragon2020.com:8080/live/osama/osama/58859.m3u8
