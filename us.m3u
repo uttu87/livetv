@@ -145,6 +145,14 @@ http://skdn.redi-vo.com/iptv/ch1229?code=138137164006399&key=58268
 http://skdn.redi-vo.com/iptv/ch1284?code=138137164006399&key=11345
 #EXTINF:0 group-title="Digital-Spain" tvg-logo="http://logo.ddnb.tn/logochanel/1285.png",Formula1 HD SP
 http://skdn.redi-vo.com/iptv/ch1285?code=138137164006399&key=47444
+#EXTINF:0 group-title=”USA” tvg-logo=”http://logo.ddnb.tn/logochanel/3535.png”,HBO
+http://skdn.redi-vo.com/iptv/ch3535?code=103131497823984&key=28724
+#EXTINF:0 group-title=”USA” tvg-logo=”http://logo.ddnb.tn/logochanel/3534.png”,HBO Zone
+http://skdn.redi-vo.com/iptv/ch3534?code=103131497823984&key=53995
+#EXTINF:0 group-title=”USA” tvg-logo=”http://logo.ddnb.tn/logochanel/3533.png”,HBO Signature
+http://skdn.redi-vo.com/iptv/ch3533?code=103131497823984&key=55642
+#EXTINF:0 group-title=”USA” tvg-logo=”http://logo.ddnb.tn/logochanel/3532.png”,HBO Comedy
+http://skdn.redi-vo.com/iptv/ch3532?code=103131497823984&key=53952
 #EXTINF:0 group-title="USA" tvg-logo="http://logo.ddnb.tn/logochanel/3529.png",Beinsports
 http://skdn.redi-vo.com/iptv/ch3529?code=138137164006399&key=22106
 #EXTINF:0 group-title="USA" tvg-logo="http://logo.ddnb.tn/logochanel/3522.png",TSN 1 HD
